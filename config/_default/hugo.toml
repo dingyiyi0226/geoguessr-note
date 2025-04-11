@@ -13,6 +13,3 @@ enableGitInfo = true
     dir = ':cacheDir/images'
 [markup.goldmark.renderer]
   unsafe = true
-[services]
-  [services.googleAnalytics]
-    ID = 'G-5N9B982DM5'
