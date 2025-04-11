@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dingyiyi0226.github.io/geoguessr-note/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Geoguessr Note'
 theme = 'hugo-book'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[markup.goldmark.renderer]
+  unsafe = true
