@@ -8,14 +8,10 @@
 - **Å**: Nordic
 - In Nordic, **ø, æ**: Norway, Denmark, Faroe, **ö, ä**: Sweden, Finland, Iceland
 
-:::info
-
-**Croatian**: Croatia :flag-hr:, Montenegro :flag-me:, Serbia :flag-rs:, North Macedonia :flag-mk:
-**Cyrillic**: Russia :flag-ru:, Ukraine :flag-ua:, Kazakhstan :flag-kz:, Kyrgyzstan :flag-kg:, Mongolia :flag-mn: , Montenegro :flag-me:, Serbia :flag-rs:, Bulgaria :flag-bg:, North Macedonia :flag-mk:
-**Arabic**: ???
-
-:::
-
+{{% hint info %}}
+**Croatian**: Croatia, Montenegro, Serbia, North Macedonia  
+**Cyrillic**: Russia, Ukraine, Kazakhstan, Kyrgyzstan, Mongolia , Montenegro, Serbia, Bulgaria, North Macedonia  
+{{% /hint %}}
 
 ### Table of characters
 
