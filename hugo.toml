@@ -2,8 +2,17 @@ baseURL = 'https://dingyiyi0226.github.io/geoguessr-note/'
 languageCode = 'en-us'
 title = 'Geoguessr Note'
 theme = 'hugo-book'
+enableGitInfo = true
+
+[params]
+  BookTheme = 'light'
+  BookRepo = 'https://github.com/dingyiyi0226/geoguessr-note'
+  BookCommitPath = 'commit'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 [markup.goldmark.renderer]
   unsafe = true
+[services]
+  [services.googleAnalytics]
+    ID = 'G-5N9B982DM5'
