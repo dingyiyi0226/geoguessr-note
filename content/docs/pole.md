@@ -1,3 +1,7 @@
+---
+weight: 80
+---
+
 # Pole
 
 ## **Ladder Pole**: France, Spain

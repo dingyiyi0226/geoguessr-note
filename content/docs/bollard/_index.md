@@ -1,3 +1,7 @@
+---
+weight: 50
+---
+
 # Bollard
 
 ## Pointy Top, red or grey reflector
