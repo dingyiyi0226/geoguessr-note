@@ -6,25 +6,6 @@
 
 <img src="https://hackmd.io/_uploads/BJXqsky7ke.png" style="width: 90%;" />
 
-### Japan
-
-- Area code:
-    - Tokyo: 03, 04X
-    - Osaka: 06, 08X
-    - Kyoto: 075
-    - Hokkaido: 01X
-    <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/19dfb5b1-0cb0-49a5-adb4-9b211585bffc/19.png" style="width: 100%;" />
-
-
-### Brazil
-
-- Area code: 
-    - São Paulo: 11
-    - Rio: 21
-    - Brasília: 61
-    - Fortaleza: 85
-    <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/930c8141-7d6e-4397-a56c-f58b902e85c1/Brasil_-_Códigos_de_área_DDD.png" style="width: 100%;" />
-
 ### Canada
 
 - Speed Sign
