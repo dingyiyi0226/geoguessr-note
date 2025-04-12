@@ -10,13 +10,13 @@ weight: 10
 
 ### Argentina
 
-<img src="pole-top-bar-ar.png" style="max-width: 200px;" />
+<img src="pole-top-bar-ar.png" class="img-md" />
 
 <--->
 
 ### Peru
 
-<img src="pole-top-bar-pe.png" style="max-width: 200px;" />
+<img src="pole-top-bar-pe.png" class="img-md" />
 
 <--->
 

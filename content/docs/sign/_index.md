@@ -12,22 +12,25 @@ weight: 40
 
 #### Poland
 
+<img src="pedestrian-pl.png" class="img-md" />
+
 horizontal line
-![](pedestrian-pl.png)
 
 <--->
 
 #### Switzerland
 
+<img src="pedestrian-ch.png" class="img-md" />
+
 7 stripes
-![](pedestrian-ch.png)
 
 <--->
 
 #### Spain
 
+<img src="pedestrian-es.png" class="img-md" />
+
 8 stripes
-![](pedestrian-es.png)
 
 {{% /columns %}}
 
@@ -37,19 +40,19 @@ horizontal line
 
 #### Estonia
 
-![](pedestrian-ee.png)
+<img src="pedestrian-ee.png" class="img-md" />
 
 <--->
 
 #### Lativia
 
-![](pedestrian-lv.png)
+<img src="pedestrian-lv.png" class="img-md" />
 
 <--->
 
 #### Lithuania
 
-![](pedestrian-lt.png)
+<img src="pedestrian-lt.png" class="img-md" />
 
 {{% /columns %}}
 

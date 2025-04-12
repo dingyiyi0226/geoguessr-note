@@ -19,7 +19,7 @@ There are many exceptions and we only list the predominant patterns, so be aware
 
 South Africa, Botswana, Lesotho, Eswatini, Israel, Jordan, UAE, Oman
 
-<img src="line-za.png" style="max-width: 400px;" />
+<img src="line-za.png" class="img-lg" />
 
 ## Dashed outer yellow
 
@@ -27,13 +27,13 @@ South Africa, Botswana, Lesotho, Eswatini, Israel, Jordan, UAE, Oman
 
 ### Ireland
 
-<img src="line-ie.png" style="max-width: 200px">
+<img src="line-ie.png" class="img-md">
 
 <--->
 
 ### New Zealand
 
-<img src="line-nz.png" style="max-width: 200px">
+<img src="line-nz.png" class="img-md">
 
 <--->
 
@@ -41,17 +41,23 @@ South Africa, Botswana, Lesotho, Eswatini, Israel, Jordan, UAE, Oman
 
 ## America: Mostly outer white center yellow
 
-{{% columns ratio=1:2 %}}
+{{% columns %}}
 
-### Chile: All White
+### Chile
 
-<img src="line-yellow-cl.png" style="max-width: 200px" />
+<img src="line-white-cl.png" class="img-md" />
+
+All white
 
 <--->
 
-### National Parks, Chile: All yellow
+### National Parks in Chile
 
-<img src="line-yellow-cl.png" style="max-width: 200px" />
+<img src="line-yellow-cl.png" class="img-md" />
+
+All yellow
+
+<--->
 
 {{% /columns %}}
 
@@ -59,18 +65,18 @@ South Africa, Botswana, Lesotho, Eswatini, Israel, Jordan, UAE, Oman
 
 White dashes between yellow center line
 
-<img src="line-sask.png" style="max-width: 400px" />
+<img src="line-sask.png" class="img-lg" />
 
 ## Triple center line
 
 ### Uruguay
 
-<img src="line-uy.png" style="max-width: 400px;" />
+<img src="line-uy.png" class="img-lg" />
 
 ### The Phillipines
 
-<img src="line-ph.png" style="max-width: 400px;" />
+<img src="line-ph.png" class="img-lg" />
 
 ### South Africa, Botswana, Eswatini, Lesotho
 
-<img src="line-triple-za.png" style="max-width: 400px;" />
+<img src="line-triple-za.png" class="img-lg" />

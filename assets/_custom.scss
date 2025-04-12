@@ -17,6 +17,10 @@
   width: 100%;
 }
 
+.book-columns img + p {
+  margin-top: 0;
+}
+
 // overwrite default
 .markdown h3 {
   font-weight: bolder;

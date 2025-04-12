@@ -3,16 +3,16 @@
 ## Long outer dashes
 Norway, France
 
-<img src="line-no.png" style="max-width: 400px;" />
+<img src="line-no.png" class="img-lg" />
 
 ## Short outer dashes
 Sweden, Romania, Spain, Netherland
 
-<img src="line-ro.png" style="max-width: 400px;" /> 
+<img src="line-ro.png" class="img-lg" /> 
 
 ## Square outer dashes: Denmark
 
-<img src="line-dk.png" style="max-width: 400px;" />
+<img src="line-dk.png" class="img-lg" />
 
 ## Yellow single center line
 
@@ -20,14 +20,16 @@ Sweden, Romania, Spain, Netherland
 
 ### Normay
 
-<img src="line-yellow-no.png" style="max-width: 200px;" />
+<img src="line-yellow-no.png" class="img-md" />
+
 With orange tint
 
 <--->
 
 ### Finland
 
-<img src="line-fi.png" style="max-width: 200px;" />
+<img src="line-fi.png" class="img-md" />
+
 With white dashes
 
 <--->
@@ -38,11 +40,11 @@ With white dashes
 
 UK could have reflector between dashes
 
-<img src="line-uk.png" style="max-width: 400px;" />
+<img src="line-uk.png" class="img-lg" />
 
 ## Center block: France
 
-<img src="line-block-fr.png" style="max-width: 400px;" />
+<img src="line-block-fr.png" class="img-lg" />
 
 
 ## Yellow double center lines: Finland, Norway, Greece
@@ -57,4 +59,4 @@ Not so useful, double white line could be anywhere else
 
 ## Yellow giveaway: Jersey Island
 
-<img src="line-jersey.png" style="max-width: 400px;" />
+<img src="line-jersey.png" class="img-lg" />

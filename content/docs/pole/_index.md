@@ -17,7 +17,8 @@ France, Spain, Senegal
 
 ### Portugal
 
-<img src="pole-pt.png" style="max-width: 200px;" />
+<img src="pole-pt.png" class="img-md" />
+
 With see through holes
 
 
@@ -25,13 +26,13 @@ With see through holes
 
 ### Brazil
 
-<img src="pole-br.png" style="max-width: 200px;" />
+<img src="pole-br.png" class="img-md" />
 
 <--->
 
 ### Nigeria
 
-<img src="pole-ng.png" style="max-width: 200px;" />
+<img src="pole-ng.png" class="img-md" />
 
 {{% /columns%}}
 
@@ -42,20 +43,22 @@ With see through holes
 
 ### Hungary
 
-<img src="pole-hu.png" style="max-width: 200px;" />
+<img src="pole-hu.png" class="img-md" />
 
 <--->
 
 ### Romania
 
-<img src="pole-ro.png" style="max-width: 200px;" />
+<img src="pole-ro.png" class="img-md" />
+
 Sometimes with white bottom
 
 <--->
 
 ### Poland
 
-<img src="pole-pl.png" style="max-width: 200px;" />
+<img src="pole-pl.png" class="img-md" />
+
 Sometimes with A frame
 
 {{% /columns %}}
@@ -63,7 +66,7 @@ Sometimes with A frame
 
 ## Doubled up pole: Argentina, <span class="text-rare">Bolivia</span>
 
-<img src="pole-doubled-ar.png" style="max-width: 128px;" />
+<img src="pole-doubled-ar.png" class="img-sm" />
 
 
 ## Round concrete pole with holes on top
@@ -78,6 +81,6 @@ Sometimes with A frame
 
 ### Taiwan
 
-<img src="pole-tw.png" style="max-width: 200px;" />
+<img src="pole-tw.png" class="img-md" />
 
 {{% /columns %}}

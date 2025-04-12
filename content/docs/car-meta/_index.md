@@ -8,7 +8,7 @@ weight: 400
 
 - [Full Doc]( https://docs.google.com/document/d/17X21eUdU_AhbiyDsEHLQCthJKjh9VuocNf7GhCvNATA/edit?usp=sharing)
 - Blue car, With antenna, 2021: **Sweden, Hungury, Bulgaria**
-- Blue car, No antenna, 2019/2020: **Ireland, Norway, Czechia**, <font color="#aaa">Denmark, Hungary</font>
+- Blue car, No antenna, 2019/2020: **Ireland, Norway, Czechia**, <span class="text-rare">Denmark, Hungary</span>
 - No car, No antenna, 2020: **Belgium**
 - Red car: **Sweden, Slovakia, Bulgaria**
 - Eletric car: **Frankfurt, Hamburg, London, Ireland**
@@ -41,22 +41,25 @@ weight: 400
 
 #### Bermuda
 
+<img src="car-meta-bermuda.png" class="img-md" />
+
 Driving left
-![](car-meta-bermuda.png)
 
 <--->
 
 #### Tau, Samoa
 
+<img src="car-meta-tau.png" class="img-md" />
+
 Driving right
-![](car-meta-tau.png)
 
 <--->
 
 #### Provinca, Colombia
 
+<img src="car-meta-provinca.png" class="img-md" />
+
 Driving right, with antenna
-![](car-meta-provinca.png)
 
 {{% /columns %}}
 
@@ -66,30 +69,33 @@ Driving right, with antenna
 
 #### St Croix, US Virgin
 
+<img src="car-meta-st-croix.png" class="img-md" />
+
 Driving left
-![](car-meta-st-croix.png)
 
 <--->
 
 #### Sir Baniyas, UAE
 
+<img src="car-meta-sir-baniyas.png" class="img-md" />
+
 Yellow outer line
-![](car-meta-sir-baniyas.png)
 
 <--->
 
 #### San Andrés, Colombia
 
+<img src="car-meta-san-andres.png" class="img-md" />
+
 Driving right
-![](car-meta-san-andres.png)
 
 {{% /columns %}}
 
 
 ### General Santos City, The Phillipines
 
-<img src="car-meta-gsc.png" width="50%" />
+<img src="car-meta-gsc.png" class="img-lg" />
 
 ### Krugar National Park, South Africa
 
-<img src="car-meta-krugar.png" width="50%" />
+<img src="car-meta-krugar.png" class="img-lg" />
