@@ -8,7 +8,7 @@ enableGitInfo = true
   BookTheme = 'light'
   BookRepo = 'https://github.com/dingyiyi0226/geoguessr-note'
   BookCommitPath = 'commit'
-  BookEditPath = 'edit/master/content'
+  BookEditPath = 'edit/master'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
