@@ -2,7 +2,26 @@
   color: #aaa;
 }
 
+.markdown .img-sm {
+  max-width: 100px;
+  width: 100%;
+}
+
+.markdown .img-md {
+  max-width: 200px;
+  width: 100%;
+}
+
+.markdown .img-lg {
+  max-width: 400px;
+  width: 100%;
+}
+
 // overwrite default
 .markdown h3 {
   font-weight: bolder;
+}
+
+.markdown .book-columns > div {
+  min-width: $body-min-width * 0.4;
 }
