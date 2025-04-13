@@ -1,5 +1,5 @@
 ---
-weight: 200
+weight: 30
 ---
 
 # Language
@@ -8,27 +8,27 @@ weight: 200
 
 ### Street
 
-|              |                |            |           |
-|:------------ | :------------- |:---------- |:--------- |
-| rue          | French         | calle      | Spanish   |
-| rua          | Portuguese     | carrer     | Catalan   |
-|              |                |            |           |
-| straat       | Dutch          | gasse      | German    |
-| straße       | German         | gade       | Denmark   |
-| strasse      | Switzerland    | gate       | Norway    |
-| strada       | Romania, Italy | gatan      | Sweden    |
-| stryd        | Wales (UK)     | gatvė, g.  | Lithuania |
-|              |                | katu       | Finland   |
-|              |                |            |           |
-| vei          | Norway         | tee        | Estonia   |
-| -vej         | Denmark        | -tie       | Finland   |
-| -weg         | Dutch, German  |            |           |
-|              |                |            |           |
-| ulica        | Poland, Slavic | tänav, tn. | Estonia   |
-| utca, út     | Hungary        | iela       | Latvia    |
-| улица, ул.   | Russian        | via        | Italy     |
-| вулиця, вул. | Ukraine        | rruga      | Albania   |
-|              |                | triq       | Malta     |
+|             |                |              |                |
+| :---------- | :------------- | :----------- | :------------- |
+| rue         | French         | calle        | Spanish        |
+| rua         | Portuguese     | carrer       | Catalan        |
+|             |                |              |                |
+| straat      | Dutch          | gasse        | German         |
+| straße      | German         | gade         | Denmark        |
+| strasse     | Switzerland    | gate         | Norway         |
+| strada      | Romania, Italy | gatan        | Sweden         |
+| stryd       | Wales (UK)     | gatvė, g.    | Lithuania      |
+|             |                | katu         | Finland        |
+|             |                |              |                |
+| -weg        | Dutch, German  | ulica        | Poland, Slavic |
+| -vej        | Denmark        | utca, út     | Hungary        |
+| -veien, vei | Norway         | улица, ул.   | Russian        |
+| -vägen      | Sweden         | вулиця, вул. | Ukraine        |
+|             |                |              |                |
+| tee         | Estonia        | tänav, tn.   | Estonia        |
+| -tie        | Finland        | iela         | Latvia         |
+|             |                | via          | Italy          |
+| triq        | Malta          | rruga        | Albania        |
 {.table-tight .header-odd}
 
 ### Misc
