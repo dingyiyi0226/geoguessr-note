@@ -12,7 +12,7 @@ weight: 40
 
 #### Poland
 
-<img src="pedestrian-pl.png" class="img-md" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/PL_road_sign_D-6.svg" class="img-sm" />
 
 horizontal line
 
@@ -20,7 +20,7 @@ horizontal line
 
 #### Switzerland
 
-<img src="pedestrian-ch.png" class="img-md" />
+<img src="pedestrian-ch.png" class="img-sm" />
 
 7 stripes
 
@@ -28,9 +28,11 @@ horizontal line
 
 #### Spain
 
-<img src="pedestrian-es.png" class="img-md" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Spain_traffic_signal_s13.svg" class="img-sm" />
 
 8 stripes
+
+<--->
 
 {{% /columns %}}
 
@@ -40,25 +42,65 @@ horizontal line
 
 #### Estonia
 
-<img src="pedestrian-ee.png" class="img-md" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Estonia_road_sign_544.svg" class="img-sm" />
 
 <--->
 
 #### Lativia
 
-<img src="pedestrian-lv.png" class="img-md" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Latvia_road_sign_535.svg" class="img-sm" />
 
 <--->
 
 #### Lithuania
 
-<img src="pedestrian-lt.png" class="img-md" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Lithuanian_pedestrian_crossing_sign.png" class="img-sm" />
+
+<--->
 
 {{% /columns %}}
 
 ### Nordic
 
-<img src="https://hackmd.io/_uploads/ryrKik1mJg.png" style="width: 90%;" />
+{{% columns %}}
+
+#### Finland
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Finland_road_sign_511.svg" class="img-sm" />
+
+<--->
+
+#### Sweden
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sweden_road_sign_B3-1.svg" class="img-sm" />
+
+<--->
+
+#### Iceland
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Iceland_road_sign_D02.11.svg" class="img-sm" />
+
+<--->
+
+{{% /columns %}}
+
+{{% columns %}}
+
+#### Norway
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/NO_road_sign_516.H.svg" class="img-sm" />
+
+<--->
+
+#### Denmark
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Denmark_road_sign_E17.svg" class="img-sm" />
+
+<--->
+<--->
+
+{{% /columns %}}
+
 
 ### South Slavs
 
@@ -74,9 +116,36 @@ Germany, Luxembourg, Hungary, Croatia, Montenegro, North Marcedonia, Portugal, <
 Finland, Sweden, Iceland, Poland, North Marcedonia, Greece
 
 
-## Yield
+## Give way
 
-<img src="https://hackmd.io/_uploads/rJRLSJLFkl.png" style="width: 90%;" />
+{{% columns %}}
+
+### Poland
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/PL_road_sign_A-7.svg" class="img-sm" />
+
+Thin border
+
+<--->
+
+### Finland
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Finland_road_sign_B5.svg" class="img-sm" />
+
+Yellow outline
+
+<--->
+
+### Romania
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/RO_road_sign_B01.svg" class="img-sm" />
+
+Thick red
+
+<--->
+
+{{% /columns %}}
+
 
 ### Yellow Background
 
@@ -86,7 +155,7 @@ Finland, Sweden, Iceland,  Poland, North Marcedonia, Greece, Croatia, Slovenia
 
 ### Baltic
 
-<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/fdd3082a-e8c6-45f6-bbee-45f172b6920a/baltics_kmmarkerinfographic.png" style="width: 90%;" />
+<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/fdd3082a-e8c6-45f6-bbee-45f172b6920a/baltics_kmmarkerinfographic.png" />
 
 ### Hungary: Green marker
 
@@ -109,8 +178,33 @@ Germany, Luxembourg, Italy, Albania, Romania
 - Dur: Turkey
 - Arrêt: Quebec, Canada
 
-## Misc
+## Baltic Comparison
 
-### Baltic
+{{% columns %}}
 
-<img src="https://hackmd.io/_uploads/SJx2HyLKkg.png" style="width: 60%;" />
+### Estonia
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_361.svg" class="img-sm" />
+
+No outline
+
+<--->
+
+### Latvia
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Latvia_road_sign_326.svg" class="img-sm" />
+
+Thick border
+
+<--->
+
+### Lithuania
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/RU_road_sign_3.27.svg" class="img-sm" />
+
+Thin border
+
+<--->
+<--->
+
+{{% /columns %}}
