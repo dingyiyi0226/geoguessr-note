@@ -8,27 +8,27 @@ weight: 200
 
 ### Street
 
-|              |                |           |           |
-|:------------ | :------------- |:--------- |:--------- |
-| rue          | French         | calle     | Spanish   |
-| rua          | Portuguese     | carrer    | Catalan   |
-|              |                |           |           |
-| straat       | Dutch          | gasse     | German    |
-| straße       | German         | gade      | Denmark   |
-| strasse      | Switzerland    | gate      | Norway    |
-| strada       | Romania, Italy | gatan     | Sweden    |
-| stryd        | Wales (UK)     | gatvė, g. | Lithuania |
-|              |                | katu      | Finland   |
-|              |                |           |           |
-| vei          | Norway         | tee       | Estonia   |
-| -vej         | Denmark        | -tie      | Finland   |
-| -weg         | Dutch, German  |           |           |
-|              |                |           |           |
-| tänav, tn.   | Estonia        | iela      | Latvia    |
-| utca, út     | Hungary        | via       | Italy     |
-| ulica        | Poland, Slavic | rruga     | Albania   |
-| вулиця, вул. | Ukraine        | triq      | Malta     |
-| улица, ул.   | Russian        |           |           |
+|              |                |            |           |
+|:------------ | :------------- |:---------- |:--------- |
+| rue          | French         | calle      | Spanish   |
+| rua          | Portuguese     | carrer     | Catalan   |
+|              |                |            |           |
+| straat       | Dutch          | gasse      | German    |
+| straße       | German         | gade       | Denmark   |
+| strasse      | Switzerland    | gate       | Norway    |
+| strada       | Romania, Italy | gatan      | Sweden    |
+| stryd        | Wales (UK)     | gatvė, g.  | Lithuania |
+|              |                | katu       | Finland   |
+|              |                |            |           |
+| vei          | Norway         | tee        | Estonia   |
+| -vej         | Denmark        | -tie       | Finland   |
+| -weg         | Dutch, German  |            |           |
+|              |                |            |           |
+| ulica        | Poland, Slavic | tänav, tn. | Estonia   |
+| utca, út     | Hungary        | iela       | Latvia    |
+| улица, ул.   | Russian        | via        | Italy     |
+| вулиця, вул. | Ukraine        | rruga      | Albania   |
+|              |                | triq       | Malta     |
 {.table-tight .header-odd}
 
 ### Misc
