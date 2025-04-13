@@ -13,11 +13,11 @@ weight: 200
 | rue          | French         | calle     | Spanish   |
 | rua          | Portuguese     | carrer    | Catalan   |
 |              |                |           |           |
-| straat       | Dutch          | gade      | Denmark   |
-| straße       | German         | gate      | Norway    |
-| strasse      | Switzerland    | gatan     | Sweden    |
-| strada       | Romania, Italy | gatvė, g. | Lithuania |
-| stryd        | Wales (UK)     |           |           |
+| straat       | Dutch          | gasse     | German    |
+| straße       | German         | gade      | Denmark   |
+| strasse      | Switzerland    | gate      | Norway    |
+| strada       | Romania, Italy | gatan     | Sweden    |
+| stryd        | Wales (UK)     | gatvė, g. | Lithuania |
 |              |                |           |           |
 | vei          | Norway         | tee       | Estonia   |
 | -vej         | Denmark        | -tie      | Finland   |
