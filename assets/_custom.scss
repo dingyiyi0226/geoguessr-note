@@ -1,3 +1,5 @@
+// custom class
+
 .text-rare {
   color: #aaa;
 }
@@ -17,8 +19,24 @@
   width: 100%;
 }
 
-.book-columns img + p {
-  margin-top: 0;
+.markdown .table-tight td {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  border: 0;
+}
+
+.markdown .table-tight th {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  border: 0;
+}
+
+.markdown .header-first td:first-child {
+  font-weight: bold;
+}
+
+.markdown .header-odd td:nth-child(odd) {
+  font-weight: bold;
 }
 
 // overwrite default
@@ -26,6 +44,18 @@
   font-weight: bolder;
 }
 
+.markdown .book-columns img + p {
+  margin-top: 0;
+}
+
 .markdown .book-columns > div {
   min-width: $body-min-width * 0.4;
+}
+
+.markdown table tr:nth-child(2n) {
+  background: 0;
+}
+
+.markdown table tbody tr:nth-child(2n+1) {
+  background: var(--gray-100);
 }

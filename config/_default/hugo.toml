@@ -12,5 +12,11 @@ enableGitInfo = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-[markup.goldmark.renderer]
-  unsafe = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
