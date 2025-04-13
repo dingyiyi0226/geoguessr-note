@@ -1,15 +1,36 @@
 # Black Hat
 
-### Black top, Red reflector below: Russia, Serbia, <font color="#aaa">Albania, North Macedonia</font>
+Wedge, front red and back white, strip on both side, with black hat
 
-<img src="https://hackmd.io/_uploads/r19lQOHQ1e.png" style="width: 30%;" />
+## Standard
 
-### Red reflector below, not overlapped: Montenegro, Slovenia, Serbia, North Marcedonia, Austria
+Austria, Slovenia, Croatia, Montenegro
 
-<img src="https://hackmd.io/_uploads/S1rENuHm1x.png" style="width: 40%;" />
-<img src="https://hackmd.io/_uploads/HyBNNuHmkg.png" style="width: 30%;" />
-<img src="https://hackmd.io/_uploads/BkSVNuHQke.png" style="width: 30%;" />
+<img src="bollard-si.png" class="img-sm" />
 
-### Off-centered: Serbia
+## Variants
 
-<img src="https://hackmd.io/_uploads/SJKJM_rX1l.png" style="width: 30%;" /> <img src="https://hackmd.io/_uploads/S1MHXuH71g.png" style="width: 32%;" />
+{{% columns %}}
+
+### Russia
+
+<img src="bollard-ru.png" class="img-sm" />
+
+Reflector on top
+
+<--->
+
+### Serbia
+
+<img src="bollard-rs.png" class="img-sm" />
+
+Off-centered
+
+<--->
+<--->
+
+{{% /columns %}}
+
+## Nipple-shaped: Austria, Slovenia
+
+<img src="bollard-at.png" class="img-sm" />

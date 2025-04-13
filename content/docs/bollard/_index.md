@@ -13,22 +13,24 @@ France, Senegal
 
 ## Czech, Slovakia: Double Reflectors
 
-{{% columns ratio=2:3 %}}
+{{% columns %}}
 
 ### Wedge
 <img src="bollard-cz.png" class="img-md" />
 
 <--->
 
-### Curved (#Need update)
-<img src="bollard-cz.png" class="img-md" />
+### Curved
+<img src="bollard-sk.png" class="img-md" />
+
+<--->
 
 {{% /columns %}}
 
 
 ## Wedge, Yellow and White
 
-{{% columns ratio=1:3 %}}
+{{% columns %}}
 
 ### Belgium
 
@@ -39,6 +41,9 @@ France, Senegal
 ### Denmark
 
 <img src="bollard-dk.png" class="img-sm" />
+
+<--->
+<--->
 
 {{% /columns %}}
 
@@ -122,11 +127,3 @@ Switzerland, Liechtenstein
 ## Mexico
 
 <img src="bollard-mx.png" class="img-lg"/>
-
-## Nordic Baltic Summary
-
-{{% details title="Details"%}}
-
-<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/ee8bc0c0-67cb-49b8-84f0-6f1ecc5b1072/nordics_bollards.png" />
-
-{{% /details %}}

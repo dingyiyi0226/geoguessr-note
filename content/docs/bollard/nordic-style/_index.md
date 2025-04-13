@@ -1,18 +1,67 @@
 # Nordic style
 
+Baton or curved shape, white or orange
 
+## Baton
 
-### Flat top: Estonia, Latvia, Sweden, Finland, Norway
-
-<img src="bollard-fi.png" width="30%" />
-
+{{% columns %}}
 
 ### Estonia
-Orange or White. strip, dots on each side, baton-like shape
 
-<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/b64c6e1e-b32e-4076-bc1a-27f562a2adf7/Estonian+bollards.png" style="width: 40%;" />
+<img src="bollard-ee.png" class="img-sm" />
+
+White or Orange
+
+<--->
+
+### Finland
+
+<img src="bollard-fi.png" class="img-sm" />
+
+Always white
+
+<--->
+
+### Sweden
+
+<img src="bollard-baton-se.png" class="img-sm" />
+
+Rect. black strip
+
+<--->
+
+{{% /columns %}}
+
+## Curved
+
+{{% columns %}}
 
 ### Lativia
-Orange or White. strip, dots on each side, curved shape
 
-<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/bf719397-0102-4e8a-9512-f82a1d3c6678/Bollard.png" style="width: 40%;" />
+<img src="bollard-lv.png" class="img-sm" />
+
+White or Orange
+
+<--->
+
+### Norway
+
+<img src="bollard-no.png" class="img-sm" />
+
+Black strip on top
+
+<--->
+
+### Sweden
+
+<img src="bollard-curved-se.png" class="img-sm" />
+
+Rect. black strip
+
+<--->
+
+{{% /columns %}}
+
+## Summary
+
+<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/ee8bc0c0-67cb-49b8-84f0-6f1ecc5b1072/nordics_bollards.png" />

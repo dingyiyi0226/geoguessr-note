@@ -1,24 +1,77 @@
 # Slavic Style
 
-### Front red, Back white: Russia, Ukraine,, Bulgaria, Croatia, Montenegro, North Macedonia, Serbia, Slovakia, Hungary, Greece, Lithuania
+Wedge, front red and back white, strip on both side
 
-<img src="https://hackmd.io/_uploads/ry7YRDBQJg.png" style="width: 30%;" />
+## Standard
 
-### Almost Square reflector: Greece
+Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 
-<img src="https://hackmd.io/_uploads/BJpLeOr7Jx.png" style="width: 30%;" />
+**Shorter white top**: Croatia, Montenegro, North Macedonia
 
-### Fat reflector: Ukraine, Greece
+{{% columns %}}
 
-<img src="https://hackmd.io/_uploads/BkpLx_SQJx.png" style="width: 30%;" />
+### Hungary
 
-### Off-centered: Serbia
+<img src="bollard-hu.png" class="img-sm" />
 
-<img src="https://hackmd.io/_uploads/SJKJM_rX1l.png" style="width: 30%;" /> <img src="https://hackmd.io/_uploads/S1MHXuH71g.png" style="width: 32%;" />
+<--->
+
+### Croatia
+
+<img src="bollard-hr.png" class="img-sm" />
+
+<--->
+
+### Russia
+
+<img src="bollard-ru.png" class="img-sm" />
+
+<--->
+
+### Ukraine
+
+<img src="bollard-ua.png" class="img-sm" />
+
+{{% /columns %}}
+
+## Variants
+
+{{% columns %}}
+
+### Greece
+
+<img src="bollard-gr.png" class="img-sm" />
+
+Almost Square
+
+<--->
+
+### Serbia
+
+<img src="bollard-rs.png" class="img-sm" />
+
+Off-centered
+
+<--->
+<--->
+
+{{% /columns %}}
 
 
+## Black top: Italy, Albania
 
-### Black top: Italy, Alabania, Malta
+<img src="bollard-it.png" class="img-sm" />
 
-<img src="https://hackmd.io/_uploads/H1FZZOrXyl.png" style="width: 60%;" />
-<img src="https://hackmd.io/_uploads/rJYW-uSm1l.png" style="width: 40%;" />
+## Blue reflector: Hungary
+
+<img src="bollard-blue-hu.png" class="img-sm" />
+
+## Eastern Russia
+
+East of Omsk
+
+<img src="bollard-e-ru.png" class="img-sm" />
+
+## North Macedonia
+
+<img src="bollard-mk.png" class="img-sm" />
