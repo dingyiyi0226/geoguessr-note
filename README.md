@@ -1,10 +1,18 @@
 # Geoguessr Note
 
-:)
+Write down some metas :)
+
+Unlike other website, we can only search metas by a given country. In this note, the goal is to identify the region based on a given meta.
+
+## Websites
+
+- [Plonk It](https://www.plonkit.net/guide)
+- [Learnable Meta](https://learnablemeta.com/maps)
+- [GeoHints](https://geohints.com/)
 
 ## Contribute
 
-All documentation files are located inside the content/docs directory. To modify the content, you have two options:
-1.  Edit directly on GitHub
-2.  Edit locally and preview the changes by running:
-    `hugo server --minify`
+All documentation files are located under content/docs. You can
+
+1. Edit directly on GitHub
+2. Edit locally and preview the changes by `hugo server --minify`
