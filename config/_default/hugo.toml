@@ -4,6 +4,10 @@ title = 'Geoguessr Note'
 theme = 'hugo-book'
 enableGitInfo = true
 
+[menus]
+[[menus.after]]
+  name = "Github"
+  url = "https://github.com/dingyiyi0226/geoguessr-note"
 [params]
   BookTheme = 'light'
   BookRepo = 'https://github.com/dingyiyi0226/geoguessr-note'
