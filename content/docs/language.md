@@ -32,12 +32,13 @@ weight: 200
 ### Misc
 
 - **-stu**: Estonia
-- **-ije**: Croatia
-- **Einbahn**, Oneway: Suggest Vienna (Austria)
-- **AWAS**: Malaysia or Indonesia
-- **Araf**, slow: Wales
-- **Paunawa**, caution: Phillipines
-
+- **-ije**: Croatian
+- **Einbahn**, Oneway: Austria
+- **EinbahnStraße**, Oneway: Germany
+- **Araf**, Slow: Wales
+- **AWAS**, Caution: Malaysia, Indonesia
+- **Paunawa**, Caution: The Phillipines
+- **Gual permanent**, No parking: Catalonia
 
 ## Alphabet
 
