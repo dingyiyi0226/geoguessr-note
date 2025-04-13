@@ -18,20 +18,21 @@ weight: 200
 | strasse      | Switzerland    | gate      | Norway    |
 | strada       | Romania, Italy | gatan     | Sweden    |
 | stryd        | Wales (UK)     | gatvė, g. | Lithuania |
+|              |                | katu      | Finland   |
 |              |                |           |           |
 | vei          | Norway         | tee       | Estonia   |
 | -vej         | Denmark        | -tie      | Finland   |
+| -weg         | Dutch, German  |           |           |
 |              |                |           |           |
-| iela         | Lativia        | katu      | Finland   |
-| tänav, tn.   | Estonia        | via       | Italy     |
-| вулиця, вул. | Ukraine        | rruga     | Albania   |
-| улица, ул.   | Russian        | triq      | Malta     |
+| tänav, tn.   | Estonia        | iela      | Latvia    |
+| utca, út     | Hungary        | via       | Italy     |
+| ulica        | Poland, Slavic | rruga     | Albania   |
+| вулиця, вул. | Ukraine        | triq      | Malta     |
+| улица, ул.   | Russian        |           |           |
 {.table-tight .header-odd}
-
 
 ### Misc
 
-- **-stu**: Estonia
 - **-ije**: Croatian
 - **Einbahn**, Oneway: Austria
 - **EinbahnStraße**, Oneway: Germany
@@ -46,9 +47,9 @@ weight: 200
 
 - **č, š, ž**: Czech, Slovakia, Slovenia, Croatian, Baltics
 - In Nordic countries:
-    - **Å**: All
-    - **ø, æ**: Norway, Denmark, Faroe
-    - **ö, ä**: Sweden, Finland, Iceland
+  - **Å**: All
+  - **ø, æ**: Norway, Denmark, Faroe
+  - **ö, ä**: Sweden, Finland, Iceland
 
 {{% hint info %}}
 **Croatian**  
@@ -96,6 +97,7 @@ Russia, Ukraine, Kazakhstan, Kyrgyzstan, Mongolia , Montenegro, Serbia, Bulgaria
 ## Romance language
 
 ### Spanish
+
 - **y** for and
 - -ción, -dad, -miento
 - todas direcciones
@@ -103,6 +105,7 @@ Russia, Ukraine, Kazakhstan, Kyrgyzstan, Mongolia , Montenegro, Serbia, Bulgaria
 - calle, avenida
 
 ### Catalan
+
 - **i** for and
 - -ció, -tat, -ment
 - totes direccions
@@ -110,6 +113,7 @@ Russia, Ukraine, Kazakhstan, Kyrgyzstan, Mongolia , Montenegro, Serbia, Bulgaria
 - carrer, avinguda
 
 ### Portuguese
+
 - **e** for and
 - -ção, -dade, -mente, -ismo
 
@@ -133,7 +137,7 @@ The only useful part is to distinguish between Ukraine and Russia
 
 ### Russian
 
-- **Tatarstan (Kazan)**:  җ ң ө ү һ ә 
+- **Tatarstan (Kazan)**:  җ ң ө ү һ ә
 - **Bashkortostan (Ufa)**: ғ ҙ ҡ ң ө ҫ ү һ ә
 - **Chuvashia (West Tatar)**: ӑ ӗ ҫ ӳ
 - **Udmurt (North Tatar)**: ӝ ӟ ӥ ӧ ӵ
