@@ -8,7 +8,7 @@ weight: 30
 **Dutch**  
 Netherland, Belgium  
 **French**  
-France, Belgium  
+France, Belgium, Switzerland  
 **German**  
 Germany, Belgium, Luxemberg, Austria, Switzerland  
 **Slavic**  
@@ -35,7 +35,7 @@ Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central 
 |             |                | katu         | Finland   |
 |             |                |              |           |
 | -weg        | Dutch, German  | ulica, ul.   | Slavic    |
-| -vej        | Denmark        | utca, út     | Hungary   |
+| -vej        | Denmark        | utca, út.    | Hungary   |
 | -veien, vei | Norway         | улица, ул.   | Cyrillic  |
 | -vägen      | Sweden         | вулиця, вул. | Ukraine   |
 |             |                |              |           |
