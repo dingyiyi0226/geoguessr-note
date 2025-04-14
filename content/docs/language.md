@@ -4,31 +4,45 @@ weight: 30
 
 # Language
 
+{{% hint info %}}
+**Dutch**  
+Netherland, Belgium  
+**French**  
+France, Belgium  
+**German**  
+Germany, Belgium, Luxemberg, Austria, Switzerland  
+**Slavic**  
+Poland, Czechia, Slovakia, Yugoslavia (Slovenia, Croatia, Bosnia, Montenegro, Serbia, North Macedonia)  
+**Cyrillic script**  
+Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central Asia
+{{% /hint %}}
+
+
 ## Word
 
 ### Street
 
-|             |                |              |                |
-| :---------- | :------------- | :----------- | :------------- |
-| rue         | French         | calle        | Spanish        |
-| rua         | Portuguese     | carrer       | Catalan        |
-|             |                |              |                |
-| straat      | Dutch          | gasse        | German         |
-| straße      | German         | gade         | Denmark        |
-| strasse     | Switzerland    | gate         | Norway         |
-| strada      | Romania, Italy | gatan        | Sweden         |
-| stryd       | Wales (UK)     | gatvė, g.    | Lithuania      |
-|             |                | katu         | Finland        |
-|             |                |              |                |
-| -weg        | Dutch, German  | ulica        | Poland, Slavic |
-| -vej        | Denmark        | utca, út     | Hungary        |
-| -veien, vei | Norway         | улица, ул.   | Russian        |
-| -vägen      | Sweden         | вулиця, вул. | Ukraine        |
-|             |                |              |                |
-| tee         | Estonia        | tänav, tn.   | Estonia        |
-| -tie        | Finland        | iela         | Latvia         |
-|             |                | via          | Italy          |
-| triq        | Malta          | rruga        | Albania        |
+|             |                |              |           |
+| :---------- | :------------- | :----------- | :-------- |
+| rue         | French         | calle        | Spanish   |
+| rua         | Portuguese     | carrer       | Catalan   |
+|             |                |              |           |
+| straat      | Dutch          | gasse        | German    |
+| straße      | German         | gade         | Denmark   |
+| strasse     | Switzerland    | gate         | Norway    |
+| strada      | Romania, Italy | gatan        | Sweden    |
+| stryd       | Wales (UK)     | gatvė, g.    | Lithuania |
+|             |                | katu         | Finland   |
+|             |                |              |           |
+| -weg        | Dutch, German  | ulica, ul.   | Slavic    |
+| -vej        | Denmark        | utca, út     | Hungary   |
+| -veien, vei | Norway         | улица, ул.   | Cyrillic  |
+| -vägen      | Sweden         | вулиця, вул. | Ukraine   |
+|             |                |              |           |
+| tee         | Estonia        | tänav, tn.   | Estonia   |
+| -tie        | Finland        | iela         | Latvia    |
+|             |                | via          | Italy     |
+| triq        | Malta          | rruga        | Albania   |
 {.table-tight .header-odd}
 
 ### Misc
@@ -50,13 +64,6 @@ weight: 30
   - **Å**: All
   - **ø, æ**: Norway, Denmark, Faroe
   - **ö, ä**: Sweden, Finland, Iceland
-
-{{% hint info %}}
-**Croatian**  
-Croatia, Montenegro, Serbia, North Macedonia  
-**Cyrillic**  
-Russia, Ukraine, Kazakhstan, Kyrgyzstan, Mongolia , Montenegro, Serbia, Bulgaria, North Macedonia  
-{{% /hint %}}
 
 ### Table of characters
 
@@ -135,7 +142,7 @@ The only useful part is to distinguish between Ukraine and Russia
 - **Bulgaria**: ѕ <font color="#aaa">й ё ы э</font>
 - **Ukraine**: ґ є і ї <font color="#aaa">ъ й ё ы э</font>
 
-### Russian
+### Russia
 
 - **Tatarstan (Kazan)**:  җ ң ө ү һ ә
 - **Bashkortostan (Ufa)**: ғ ҙ ҡ ң ө ҫ ү һ ә
@@ -157,5 +164,5 @@ The only useful part is to distinguish between Ukraine and Russia
 ### Summary
 
 - Kalmyk is closed to Mongolic, but within europe
-- Northern oblasts (Udmurt, Mari El, Komi) using ö just like swedish
+- Northern oblasts (Udmurt, Mari El, Komi) using ö just like finnish
 - **ө ү** is used by central asia and the surrounding regions
