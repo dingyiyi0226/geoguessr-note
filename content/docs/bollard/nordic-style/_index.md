@@ -8,25 +8,19 @@ Baton or curved shape, white or orange
 
 ### Estonia
 
-<img src="bollard-ee.png" class="img-sm" />
-
-White or Orange
+{{<figure src="bollard-ee.png" caption="white or orange" class="img-sm" >}}
 
 <--->
 
 ### Finland
 
-<img src="bollard-fi.png" class="img-sm" />
-
-Always white
+{{<figure src="bollard-fi.png" caption="always white" class="img-sm" >}}
 
 <--->
 
 ### Sweden
 
-<img src="bollard-baton-se.png" class="img-sm" />
-
-Rect. black strip
+{{<figure src="bollard-baton-se.png" caption="rect. black strip" class="img-sm" >}}
 
 <--->
 
@@ -38,25 +32,19 @@ Rect. black strip
 
 ### Lativia
 
-<img src="bollard-lv.png" class="img-sm" />
-
-White or Orange
+{{<figure src="bollard-lv.png" caption="white or orange" class="img-sm" >}}
 
 <--->
 
 ### Norway
 
-<img src="bollard-no.png" class="img-sm" />
-
-Black strip on top
+{{<figure src="bollard-no.png" caption="black strip on top" class="img-sm" >}}
 
 <--->
 
 ### Sweden
 
-<img src="bollard-curved-se.png" class="img-sm" />
-
-Rect. black strip
+{{<figure src="bollard-curved-se.png" caption="rect. black strip" class="img-sm" >}}
 
 <--->
 

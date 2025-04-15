@@ -20,17 +20,13 @@ Sweden, Romania, Spain, Netherland
 
 ### Normay
 
-<img src="line-yellow-no.png" class="img-md" />
-
-With orange tint
+{{<figure src="line-yellow-no.png" caption="with orange tint" class="img-md" >}}
 
 <--->
 
 ### Finland
 
-<img src="line-fi.png" class="img-md" />
-
-With white dashes
+{{<figure src="line-fi.png" caption="with white dashes" class="img-md" >}}
 
 <--->
 

@@ -45,17 +45,13 @@ South Africa, Botswana, Lesotho, Eswatini, Israel, Jordan, UAE, Oman
 
 ### Chile
 
-<img src="line-white-cl.png" class="img-md" />
-
-All white
+{{<figure src="line-white-cl.png" caption="all white" class="img-md" >}}
 
 <--->
 
 ### National Parks in Chile
 
-<img src="line-yellow-cl.png" class="img-md" />
-
-All yellow
+{{<figure src="line-yellow-cl.png" caption="all yellow" class="img-md" >}}
 
 <--->
 

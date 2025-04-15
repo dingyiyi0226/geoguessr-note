@@ -4,15 +4,18 @@
     color: #aaa;
   }
 
-  .img-sm {
+  img.img-sm,
+  figure.img-sm img {
     max-width: 100px;
     width: 100%;
   }
-  .img-md {
+  img.img-md,
+  figure.img-md img {
     max-width: 200px;
     width: 100%;
   }
-  .img-lg {
+  img.img-lg,
+  figure.img-lg img {
     max-width: 400px;
     width: 100%;
   }
@@ -36,9 +39,6 @@
     font-weight: bolder;
   }
 
-  .book-columns img + p {
-    margin-top: 0;
-  }
   .book-columns > div {
     min-width: $body-min-width * 0.4;
   }

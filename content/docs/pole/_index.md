@@ -17,10 +17,7 @@ France, Spain, Senegal
 
 ### Portugal
 
-<img src="pole-pt.png" class="img-md" />
-
-With see through holes
-
+{{<figure src="pole-pt.png" caption="with see through holes" class="img-md" >}}
 
 <--->
 
@@ -49,17 +46,13 @@ With see through holes
 
 ### Romania
 
-<img src="pole-ro.png" class="img-md" />
-
-Sometimes with white bottom
+{{<figure src="pole-ro.png" caption="sometimes with white bottom" class="img-md" >}}
 
 <--->
 
 ### Poland
 
-<img src="pole-pl.png" class="img-md" />
-
-Sometimes with A frame
+{{<figure src="pole-pl.png" caption="sometimes with A frame" class="img-md" >}}
 
 {{% /columns %}}
 

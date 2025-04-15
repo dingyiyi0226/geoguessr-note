@@ -12,25 +12,27 @@ weight: 40
 
 #### Poland
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/PL_road_sign_D-6.svg" class="img-sm" />
-
-horizontal line
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/f/f3/PL_road_sign_D-6.svg"
+  caption="horizontal line"
+  class="img-sm"
+>}}
 
 <--->
 
 #### Switzerland
 
-<img src="pedestrian-ch.png" class="img-sm" />
-
-7 stripes
+{{<figure src="pedestrian-ch.png" caption="7 stripes" class="img-sm" >}}
 
 <--->
 
 #### Spain
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Spain_traffic_signal_s13.svg" class="img-sm" />
-
-8 stripes
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Spain_traffic_signal_s13.svg"
+  caption="8 stripes"
+  class="img-sm"
+>}}
 
 <--->
 
@@ -122,25 +124,31 @@ Finland, Sweden, Iceland, Poland, North Marcedonia, Greece
 
 ### Poland
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/PL_road_sign_A-7.svg" class="img-sm" />
-
-Thin border
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/7/74/PL_road_sign_A-7.svg"
+  caption="thin border"
+  class="img-sm"
+>}}
 
 <--->
 
 ### Finland
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Finland_road_sign_B5.svg" class="img-sm" />
-
-Yellow outline
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/0/03/Finland_road_sign_B5.svg"
+  caption="yellow outline"
+  class="img-sm"
+>}}
 
 <--->
 
 ### Romania
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/RO_road_sign_B01.svg" class="img-sm" />
-
-Thick red
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/9/9f/RO_road_sign_B01.svg"
+  caption="thick red"
+  class="img-sm"
+>}}
 
 <--->
 
@@ -184,25 +192,31 @@ Germany, Luxembourg, Italy, Albania, Romania
 
 ### Estonia
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_361.svg" class="img-sm" />
-
-No outline
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_361.svg"
+  caption="no outline"
+  class="img-sm"
+>}}
 
 <--->
 
 ### Latvia
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Latvia_road_sign_326.svg" class="img-sm" />
-
-Thick border
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/7/77/Latvia_road_sign_326.svg"
+  caption="thick border"
+  class="img-sm"
+>}}
 
 <--->
 
 ### Lithuania
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/RU_road_sign_3.27.svg" class="img-sm" />
-
-Thin border
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/1/1d/RU_road_sign_3.27.svg"
+  caption="thin border"
+  class="img-sm"
+>}}
 
 <--->
 <--->

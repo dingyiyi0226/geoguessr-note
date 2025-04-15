@@ -14,17 +14,13 @@ Austria, Slovenia, Croatia, Montenegro
 
 ### Russia
 
-<img src="bollard-ru.png" class="img-sm" />
-
-Reflector on top
+{{<figure src="bollard-ru.png" caption="reflector on top" class="img-sm" >}}
 
 <--->
 
 ### Serbia
 
-<img src="bollard-rs.png" class="img-sm" />
-
-Off-centered
+{{<figure src="bollard-rs.png" caption="off-centered" class="img-sm" >}}
 
 <--->
 <--->

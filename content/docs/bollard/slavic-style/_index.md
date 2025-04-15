@@ -40,17 +40,13 @@ Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 
 ### Greece
 
-<img src="bollard-gr.png" class="img-sm" />
-
-Almost Square
+{{<figure src="bollard-gr.png" caption="almost square" class="img-sm" >}}
 
 <--->
 
 ### Serbia
 
-<img src="bollard-rs.png" class="img-sm" />
-
-Off-centered
+{{<figure src="bollard-rs.png" caption="off-centered" class="img-sm" >}}
 
 <--->
 <--->

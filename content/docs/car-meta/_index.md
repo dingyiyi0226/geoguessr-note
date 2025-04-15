@@ -41,25 +41,19 @@ weight: 400
 
 #### Bermuda
 
-<img src="car-meta-bermuda.png" class="img-md" />
-
-Driving left
+{{<figure src="car-meta-bermuda.png" caption="driving left" class="img-md" >}}
 
 <--->
 
 #### Tau, Samoa
 
-<img src="car-meta-tau.png" class="img-md" />
-
-Driving right
+{{<figure src="car-meta-tau.png" caption="driving right" class="img-md" >}}
 
 <--->
 
 #### Provinca, Colombia
 
-<img src="car-meta-provinca.png" class="img-md" />
-
-Driving right, with antenna
+{{<figure src="car-meta-provinca.png" caption="driving right, with antenna" class="img-md" >}}
 
 {{% /columns %}}
 
@@ -69,25 +63,19 @@ Driving right, with antenna
 
 #### St Croix, US Virgin
 
-<img src="car-meta-st-croix.png" class="img-md" />
-
-Driving left
+{{<figure src="car-meta-st-croix.png" caption="driving left" class="img-md" >}}
 
 <--->
 
 #### Sir Baniyas, UAE
 
-<img src="car-meta-sir-baniyas.png" class="img-md" />
-
-Yellow outer line
+{{<figure src="car-meta-sir-baniyas.png" caption="yellow outer line" class="img-md" >}}
 
 <--->
 
 #### San Andrés, Colombia
 
-<img src="car-meta-san-andres.png" class="img-md" />
-
-Driving right
+{{<figure src="car-meta-san-andres.png" caption="driving right" class="img-md" >}}
 
 {{% /columns %}}
 
