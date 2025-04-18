@@ -6,33 +6,63 @@ weight: 60
 
 ## Europe
 
-### Summary
+<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/a1b713f8-44c7-4d20-a74e-0a27a653e68a/eu_chevrons.png" class="img-lg" /> 
 
-<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/a1b713f8-44c7-4d20-a74e-0a27a653e68a/eu_chevrons.png" style="width: 60%;" /> 
+### White on Blue
 
-### **White on Blue**: Spain, France, Andorra (Spain only has 2 and 4 arrows)
+Spain, France, Andorra (Spain only has 2 and 4 arrows)
 
-<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/9097238f-86c1-46fc-ab40-87bfe8683587/Chevrons.png" style="width: 60%;" /> 
+<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/9097238f-86c1-46fc-ab40-87bfe8683587/Chevrons.png" class="img-lg" /> 
 
-### **Yellow on Blue**: Sweden, <font color="#aaa">Luxembourg</font>
+### Yellow on Blue
 
-<img src="chevron-se.png" style="width: 30%;" />
+Sweden, <span class="text-rare">Luxembourg</span>
 
-### **Black on White**: Serbia, Montenegro, North Marcedonia, Slovenia
+<img src="chevron-se.png" class="img-md" />
 
-<img src="chevron-rs.png" style="width: 20%;" />
+### Black on White
 
-### **White on Black**: Spain, Italy, Albania, Greece, Switzerland, United Kingdom, Malta
+Serbia, Montenegro, North Marcedonia, Slovenia
 
-### **Red on Yellow**: Austria, Croatia, Montenegro, San Marino
+<img src="chevron-rs.png" class="img-md" />
 
-### **White on Red**: Russia, Ukraine, Estonia, Austria, Hungary
+### White on Black
 
-### **Yellow on Black**: Norway, Finland, Ireland, Portugal, Iceland, Luxembourg, Turkey (max W/E)
+Spain, Italy, Albania, Greece, Switzerland, United Kingdom, Malta
 
-### **Black on Yellow**: Gibraltar, Turkey (Ismir)
+### Red on Yellow
+
+Austria, Croatia, Montenegro, San Marino
+
+### White on Red
+
+Russia, Ukraine, Estonia, Austria, Hungary
+
+### Yellow on Black
+
+Norway, Finland, Ireland, Portugal, Iceland, Luxembourg, Turkey (max W/E)
+
+### Black on Yellow
+
+Gibraltar, Turkey (Ismir)
+
+### With yellow frame: Romania
 
 ## Outside Europe
 
-### **Red on White**: Phillipines, Sri Lanka, South Africa, Argentina
-### **White on Black**: Australia, Bangladesh
+### Red on White
+
+The Phillipines, Sri Lanka, South Africa, Argentina
+
+### White on Red
+
+Quebec (Canada)
+
+### White on Black
+
+Australia, Bangladesh
+
+### Yellow on Black
+
+Brazil, Cambodia
+
