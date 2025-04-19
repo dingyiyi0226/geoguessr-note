@@ -5,11 +5,24 @@ bookCollapseSection: true
 
 # Bollard
 
-## French Style: Pointy Top, Red or Grey
+## French Style
 
-France, Senegal
+{{% columns %}}
 
-<img src="bollard-fr.png" class="img-sm" />
+### France, Senegal
+
+{{<figure src="bollard-fr.png" caption="red or grey" class="img-sm" >}}
+
+<--->
+
+### France
+
+{{<figure src="bollard-flag-fr.png" caption="" class="img-sm" >}}
+
+<--->
+<--->
+
+{{% /columns %}}
 
 ## Czech, Slovakia: Double Reflectors
 
