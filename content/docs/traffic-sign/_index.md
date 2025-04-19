@@ -3,7 +3,7 @@ weight: 40
 bookCollapseSection: true
 ---
 
-# Sign
+# Traffic Sign
 
 ## Pedestrian
 
