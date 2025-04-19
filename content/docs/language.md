@@ -43,6 +43,7 @@ Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central 
 | -tie        | Finland        | iela         | Latvia    |
 |             |                | via          | Italy     |
 | triq        | Malta          | rruga        | Albania   |
+| kalea       | Basque         |              |           |
 {.table-tight .header-odd}
 
 ### Misc
@@ -101,7 +102,7 @@ Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central 
 **ş ș**, **ă ā** are identical in some fonts. Be careful when reading ad billboard
 {{% /hint %}}
 
-## Romance language
+## Romance languages
 
 ### Spanish
 
@@ -123,6 +124,37 @@ Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central 
 
 - **e** for and
 - -ção, -dade, -mente, -ismo
+
+### Galician
+
+- Rúa (without accent in portuguese)
+- Town name with O, A articles: **A Pena, O Burgo**
+
+## Basque
+
+An isolated language
+
+- Northern Spain to Southern France
+- Common letters: **k, x, z, tx**
+- **kalea** for street
+
+
+## Celtic languages
+
+### Welsh
+
+- common letters: **ll, dd, w, y**
+- accents: circumflex (ˆ), acute (´)
+
+### Scottish Gaelic
+
+- common letters: **bh, dh, fh, mh**
+- accents: grave (`)
+
+### Irish
+
+- Use accents frequently: acute (´)
+
 
 ## Cyrillic
 
