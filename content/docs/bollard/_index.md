@@ -53,7 +53,7 @@ Switzerland, Liechtenstein
 
 <img src="bollard-li.png" class="img-md" />
 
-## Spainish Style: Orange and White
+## Spanish Style: Orange and White
 
 {{% columns %}}
 
@@ -115,15 +115,61 @@ Switzerland, Liechtenstein
 
 {{% /columns %}}
 
+## South East Asia Style
 
-## Mongolia: Bowling
+{{% columns %}}
 
-<img src="bollard-mn.png" style="width: 15%" />
+### Red and White
 
-## Iceland
+{{<figure src="bollard-bd.png" caption="Bangladesh, Cambodia" class="img-md" >}}
 
-<img src="bollard-is.png" class="img-sm" />
+<--->
 
-## Mexico
+### Black and White
+
+{{<figure src="bollard-th.png" caption="Thailand, Laos, Indonesia" class="img-md" >}}
+
+<--->
+
+### Sri Lanka
+
+{{<figure src="bollard-lk.png" class="img-md" >}}
+
+
+{{% /columns %}}
+
+## Mexican Style
+
+{{% columns ratio=2:1 %}}
+
+### Mexico
 
 <img src="bollard-mx.png" class="img-lg"/>
+
+<--->
+
+### Moquegua (Peru)
+
+<img src="bollard-moquegua.png" class="img-md"/>
+
+{{% /columns %}}
+
+## Misc
+
+{{% columns %}}
+
+### Mongolia
+
+{{<figure src="bollard-mn.png" caption="bowling shape" class="img-sm" >}}
+
+<--->
+
+### Iceland
+
+{{<figure src="bollard-is.png" caption="" class="img-sm" >}}
+
+<--->
+<--->
+
+{{% /columns %}}
+
