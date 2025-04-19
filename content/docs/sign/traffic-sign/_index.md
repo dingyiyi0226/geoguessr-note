@@ -1,6 +1,5 @@
 ---
-weight: 40
-bookCollapseSection: true
+weight: 10
 ---
 
 # Traffic Sign
@@ -159,26 +158,6 @@ Finland, Sweden, Iceland, Poland, North Marcedonia, Greece
 ### Yellow Background
 
 Finland, Sweden, Iceland,  Poland, North Marcedonia, Greece, Croatia, Slovenia
-
-## Road Marker
-
-### Baltic
-
-<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/fdd3082a-e8c6-45f6-bbee-45f172b6920a/baltics_kmmarkerinfographic.png" />
-
-### Hungary: Green marker
-
-<img src="road-marker-hu.png" width="200px">
-
-## Back of sign
-
-### Black
-
-Germany, Luxembourg, Italy, Albania, Romania
-
-### Netherlands: With large border
-
-<img src="sign-back-nl.png" width="200px">
 
 ## Stop
 
