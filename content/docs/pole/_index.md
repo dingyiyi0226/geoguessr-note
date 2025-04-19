@@ -33,8 +33,7 @@ France, Spain, Senegal
 
 {{% /columns%}}
 
-
-## Holey Pole: Hungary, Romania
+## Holey Pole
 
 {{% columns %}}
 
@@ -53,6 +52,43 @@ France, Spain, Senegal
 ### Poland
 
 {{<figure src="pole-pl.png" caption="sometimes with A frame" class="img-md" >}}
+
+{{% /columns %}}
+
+{{% columns %}}
+
+### Belgium
+
+{{<figure src="pole-be.png" caption="similar to portugal style" class="img-md" >}}
+
+<--->
+
+### Sri Lanka
+
+<img src="pole-lk.png" class="img-md" />
+
+<--->
+
+{{% /columns %}}
+
+
+## Square concrete: Belgium, Post-Soviet
+
+## Square concrete with holes
+
+{{% columns %}}
+
+### Thailand, Laos
+
+<img src="pole-th.png" class="img-md" />
+
+<--->
+
+### Sri Lanka:
+
+{{<figure src="pole-square-lk.png" caption="holes only on top" class="img-md" >}}
+
+<--->
 
 {{% /columns %}}
 
