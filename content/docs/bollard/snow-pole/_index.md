@@ -1,3 +1,7 @@
+---
+weight: 60
+---
+
 # Snow pole
 
 ## Norway

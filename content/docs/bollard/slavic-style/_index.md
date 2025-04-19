@@ -1,3 +1,7 @@
+---
+weight: 20
+---
+
 # Slavic Style
 
 Wedge, front red and back white, strip on both side

@@ -1,3 +1,7 @@
+---
+weight: 40
+---
+
 # Nordic style
 
 Baton or curved shape, white or orange
