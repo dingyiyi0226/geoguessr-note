@@ -15,11 +15,16 @@ bookCollapseSection: true
 
 <--->
 
+### Scotland (UK)
+
+{{<figure src="bollard-scotland.png" caption="rounded top" class="img-sm" >}}
+
+<--->
+
 ### France
 
 {{<figure src="bollard-flag-fr.png" caption="" class="img-sm" >}}
 
-<--->
 <--->
 
 {{% /columns %}}
