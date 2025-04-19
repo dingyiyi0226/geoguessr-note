@@ -4,6 +4,13 @@ weight: 10
 
 # Pole Top
 
+## American Style
+
+US, Canada, Phillipines,
+
+<img src="pole-top-us.png" class="img-md" />
+
+
 ## Three Horizontal Bar
 
 {{% columns %}}
