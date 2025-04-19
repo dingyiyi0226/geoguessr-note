@@ -23,6 +23,38 @@ bookCollapseSection: true
 
 {{% /columns %}}
 
+## Back of sign
+
+### Black
+
+Germany, Luxembourg, Italy, Albania, Romania
+
+### Netherlands: With large border
+
+<img src="sign-back-nl.png" width="200px">
+
+## Passing Place
+
+{{% columns %}}
+
+### Norway
+
+{{<figure src="passing-no.png" caption="" class="img-md" >}}
+
+<--->
+
+### Sweden
+
+{{<figure src="passing-se.png" caption="" class="img-md" >}}
+
+<--->
+
+{{% /columns %}}
+
+### Scotland (UK)
+
+{{<figure src="passing-scotland.png" caption="" class="img-md" >}}
+
 ## Property Marker
 
 {{% columns %}}
@@ -40,13 +72,3 @@ bookCollapseSection: true
 <--->
 
 {{% /columns %}}
-
-## Back of sign
-
-### Black
-
-Germany, Luxembourg, Italy, Albania, Romania
-
-### Netherlands: With large border
-
-<img src="sign-back-nl.png" width="200px">
