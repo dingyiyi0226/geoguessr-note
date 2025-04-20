@@ -41,19 +41,19 @@ weight: 400
 
 #### Bermuda
 
-{{<figure src="car-meta-bermuda.png" caption="driving left" class="img-md" >}}
+{{<figure src="car-bermuda.png" caption="driving left" class="img-md" >}}
 
 <--->
 
 #### Tau, Samoa
 
-{{<figure src="car-meta-tau.png" caption="driving right" class="img-md" >}}
+{{<figure src="car-tau.png" caption="driving right" class="img-md" >}}
 
 <--->
 
-#### Provinca, Colombia
+#### Providencia, Colombia
 
-{{<figure src="car-meta-provinca.png" caption="driving right, with antenna" class="img-md" >}}
+{{<figure src="car-providencia.png" caption="driving right, with antenna" class="img-md" >}}
 
 {{% /columns %}}
 
@@ -63,27 +63,27 @@ weight: 400
 
 #### St Croix, US Virgin
 
-{{<figure src="car-meta-st-croix.png" caption="driving left" class="img-md" >}}
+{{<figure src="car-st-croix.png" caption="driving left" class="img-md" >}}
 
 <--->
 
 #### Sir Baniyas, UAE
 
-{{<figure src="car-meta-sir-baniyas.png" caption="yellow outer line" class="img-md" >}}
+{{<figure src="car-sir-baniyas.png" caption="yellow outer line" class="img-md" >}}
 
 <--->
 
 #### San Andrés, Colombia
 
-{{<figure src="car-meta-san-andres.png" caption="driving right" class="img-md" >}}
+{{<figure src="car-san-andres.png" caption="driving right" class="img-md" >}}
 
 {{% /columns %}}
 
 
 ### General Santos City, The Phillipines
 
-<img src="car-meta-gsc.png" class="img-lg" />
+<img src="car-gsc.png" class="img-lg" />
 
 ### Krugar National Park, South Africa
 
-<img src="car-meta-krugar.png" class="img-lg" />
+<img src="car-krugar.png" class="img-lg" />
