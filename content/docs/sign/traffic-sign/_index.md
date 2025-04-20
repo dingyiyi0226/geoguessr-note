@@ -178,10 +178,30 @@ Finland, Sweden, Iceland,  Poland, North Marcedonia, Greece, Croatia, Slovenia
 
 ## Stop
 
-- ЗОГС: Mongolia
-- Berhenti: Malaysia
-- Dur: Turkey
-- Arrêt: Quebec, Canada
+{{% columns %}}
+
+### Malaysia
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Malaysia_road_sign_RP1.svg/250px-Malaysia_road_sign_RP1.svg.png"
+  class="img-sm" />
+
+<--->
+
+### Turkey
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Turkey_road_sign_TT-2.svg/250px-Turkey_road_sign_TT-2.svg.png"
+  class="img-sm" />
+
+<--->
+
+### Quebec
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Arret_Quebec.svg/250px-Arret_Quebec.svg.png"
+  class="img-sm" />
+
+<--->
+
+{{% /columns %}}
 
 ## Baltic Comparison
 
@@ -215,7 +235,6 @@ Finland, Sweden, Iceland,  Poland, North Marcedonia, Greece, Croatia, Slovenia
   class="img-sm"
 >}}
 
-<--->
 <--->
 
 {{% /columns %}}
