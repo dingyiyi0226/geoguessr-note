@@ -6,7 +6,7 @@ weight: 400
 
 ## Europe Gen 4
 
-- [Full Doc]( https://docs.google.com/document/d/17X21eUdU_AhbiyDsEHLQCthJKjh9VuocNf7GhCvNATA/edit?usp=sharing)
+- [Full Doc]( https://docs.google.com/document/d/17X21eUdU_AhbiyDsEHLQCthJKjh9VuocNf7GhCvNATA/edit?usp=sharing) by Elori
 - Blue car, With antenna, 2021: **Sweden, Hungury, Bulgaria**
 - Blue car, No antenna, 2019/2020: **Ireland, Norway, Czechia**, <span class="text-rare">Denmark, Hungary</span>
 - No car, No antenna, 2020: **Belgium**
@@ -32,6 +32,16 @@ weight: 400
     | 2017 |     |  v  |  v  |  v  |  v  |  v  |     |     |
     | 2018 |     |     |     |  v  |     |     |  v  |     |
 
+## Gen 3 with three ridges
+
+New Zealand, Hawaii, Cambodia
+
+{{<figure src="car-three-ridge.png" caption="" class="img-lg" >}}
+
+{{% hint info %}}
+**Note**  
+May include countries not mentioned
+{{% /hint %}}
 
 ## Special Car
 
