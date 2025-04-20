@@ -133,6 +133,43 @@ Switzerland, Liechtenstein
 
 {{% /columns %}}
 
+
+### Malaysia
+
+{{% columns %}}
+
+{{<figure src="bollard-my.png" caption="" class="img-sm" >}}
+
+<--->
+
+{{<figure src="bollard-my-2.png" caption="" class="img-sm" >}}
+
+<--->
+<--->
+
+{{% /columns %}}
+
+### Ecuador
+
+{{% columns %}}
+
+{{<figure src="bollard-ec.png" caption="" class="img-sm" >}}
+
+<--->
+
+{{<figure src="bollard-ec-2.png" caption="" class="img-sm" >}}
+
+<--->
+
+{{<figure src="bollard-ec-3.png" caption="" class="img-sm" >}}
+
+<--->
+
+{{<figure src="bollard-ec-4.png" caption="" class="img-sm" >}}
+
+{{% /columns %}}
+
+
 ## South East Asia Style
 
 {{% columns %}}
