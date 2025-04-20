@@ -91,6 +91,10 @@ Switzerland, Liechtenstein
 
 <img src="bollard-ad.png" class="img-md" />
 
+## Two red stripes: Netherland, Belgium
+
+<img src="bollard-be-2.png" class="img-md" />
+
 ## South East Asia Style
 
 {{% columns %}}

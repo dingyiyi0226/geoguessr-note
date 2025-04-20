@@ -31,6 +31,6 @@ Austria, Slovenia, Croatia, Montenegro
 
 {{% /columns %}}
 
-## Nipple-shaped: Austria, Slovenia
+## Lego-shaped: Austria, Slovenia
 
 <img src="bollard-at.png" class="img-sm" />
