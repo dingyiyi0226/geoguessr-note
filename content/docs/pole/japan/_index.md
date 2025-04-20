@@ -108,17 +108,25 @@
 
 {{% /columns %}}
 
-### On plate: Kanto 関東
+### On plate:
 
 {{% columns %}}
+
+#### Kanto 関東
 
 {{<figure src="wooden-plate.png" caption="wooden plate" class="img-md" >}}
 
 <--->
 
+#### Kanto 関東
+
 {{<figure src="round-plate.png" caption="round plate" class="img-md" >}}
 
 <--->
+
+#### Tohoku 東北
+
+{{<figure src="zigzag-tohoku.png" caption="with zigzag bar" class="img-md" >}}
 
 {{% /columns %}}
 
@@ -144,12 +152,21 @@
 
 {{% columns %}}
 
+### Kansai 関西
 
-### Upward 120 Degree
-
-{{<figure src="zigzag-kansai.png" caption="Kansai 関西" class="img-md" >}}
+{{<figure src="zigzag-kansai.png" caption="" class="img-md" >}}
 
 <--->
+
+### Tohoku 東北
+
+{{<figure src="zigzag-tohoku.png" caption="with round plate" class="img-md" >}}
+
+<--->
+
+{{% /columns %}}
+
+{{% columns %}}
 
 ### 120 Degree
 
@@ -160,6 +177,8 @@
 ### 90 Degree
 
 {{<figure src="zigzag-90.png" caption="Shikoku 四国" class="img-md" >}}
+
+<--->
 
 {{% /columns %}}
 
