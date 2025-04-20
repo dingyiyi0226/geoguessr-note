@@ -8,19 +8,19 @@
 
 #### Hokkaido 北海道
 
-{{<figure src="bar-hokkaido.png" caption="plus-shaped" class="img-md" >}}
+{{<figure src="bar-hokkaido.png" caption="plus-shaped bar" class="img-md" >}}
 
 <--->
 
 #### Okinawa, Kanto 沖縄, 関東
 
-{{<figure src="bar-okinawa.png" caption="T-shaped" class="img-md" >}}
+{{<figure src="bar-okinawa.png" caption="T-shaped bar" class="img-md" >}}
 
 <--->
 
 #### Kyushu 九州
 
-{{<figure src="bar-kyushu.png" caption="straight" class="img-md" >}}
+{{<figure src="bar-kyushu.png" caption="straight bar" class="img-md" >}}
 
 {{% /columns %}}
 
@@ -30,13 +30,13 @@
 
 #### Chugoku 中国
 
-{{<figure src="bar-chugoku.png" caption="full triangle" class="img-md" >}}
+{{<figure src="bar-chugoku.png" caption="full triangle at mount point" class="img-md" >}}
 
 <--->
 
 #### Shikoku 四国
 
-{{<figure src="bar-shikoku.png" caption="half triangle" class="img-md" >}}
+{{<figure src="bar-shikoku.png" caption="half triangle at mount point" class="img-md" >}}
 
 <--->
 
