@@ -6,7 +6,7 @@ weight: 150
 
 ## Europe
 
-### Red Strip, Blue right strip: Albania
+### Red strip, Blue right strip: Albania
 
 <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/da8071d2-8030-40ee-ad53-4c78feae81c0/albania_plate.png" width="60%" />
 
@@ -18,13 +18,17 @@ weight: 150
 
 <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/85dfe365-bb35-404d-8086-a316c7d3fb79/no_licenceplate.png" width="60%" />
 
-### Red Strip: Isle of Man
+### Red strip: Isle of Man
 
 <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/78fe5bd2-3416-4a95-96aa-d942a5a126f7/IOM_Plate.png" width="60%" />
 
 ### Yellow section: Denmark
 
 <img src="plate-dk.png" width="60%" />
+
+### Red text: Belgium
+
+<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/d5a4aad9-11c4-44d8-befa-5b66503186ab/Belgium_License_Plate.png" width="60%" />
 
 ## Asia
 
