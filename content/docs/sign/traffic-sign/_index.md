@@ -154,6 +154,23 @@ Finland, Sweden, Iceland, Poland, North Marcedonia, Greece
 
 {{% /columns %}}
 
+{{% columns ratio=1:2 %}}
+
+### Australia
+
+{{<figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Australia_road_sign_R1-2.svg/272px-Australia_road_sign_R1-2.svg.png"
+  caption="black text" class="img-sm" >}}
+
+<--->
+
+### New Zealand
+
+{{<figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_Zealand_road_sign_R2-2.svg/330px-New_Zealand_road_sign_R2-2.svg.png"
+  caption="red text, painted on ground" class="img-sm" >}}
+
+<--->
+
+{{% /columns %}}
 
 ### Yellow Background
 

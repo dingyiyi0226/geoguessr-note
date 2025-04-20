@@ -4,12 +4,6 @@ weight: 500
 
 # Regional
 
-### Australia and New Zealand
-
-- Give way
-
-<img src="https://hackmd.io/_uploads/BJXqsky7ke.png" style="width: 90%;" />
-
 ### Canada
 
 - Speed Sign
