@@ -53,6 +53,11 @@ Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 {{<figure src="bollard-rs.png" caption="off-centered" class="img-sm" >}}
 
 <--->
+
+### Lithuania
+
+{{<figure src="bollard-lt.png" caption="orange reflector" class="img-sm" >}}
+
 <--->
 
 {{% /columns %}}
