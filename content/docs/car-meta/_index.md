@@ -6,16 +6,27 @@ weight: 400
 
 ## Europe Gen 4
 
-- [Full Doc]( https://docs.google.com/document/d/17X21eUdU_AhbiyDsEHLQCthJKjh9VuocNf7GhCvNATA/edit?usp=sharing) by Elori
-- Blue car, With antenna, 2021: **Sweden, Hungury, Bulgaria**
-- Blue car, No antenna, 2019/2020: **Ireland, Norway, Czechia**, <span class="text-rare">Denmark, Hungary</span>
-- No car, No antenna, 2020: **Belgium**
-- Red car: **Sweden, Slovakia, Bulgaria**
-- Eletric car: **Frankfurt, Hamburg, London, Ireland**
+[Full Doc]( https://docs.google.com/document/d/17X21eUdU_AhbiyDsEHLQCthJKjh9VuocNf7GhCvNATA/edit?usp=sharing) by Elori
+
+| Car  | Ant. | Year | Country                              | Rare             |
+|:----:|:----:|:----:|:------------------------------------ |:---------------- |
+| 🟦   | ⭕️   | 2021 | Sweden, Hungary, Bulgaria            | Romania, France  |
+| 🟦   | ❌   | 2020 | Ireland, Norway, Czechia             | Denmark, Hungary |
+| 🟦   | ❌   | 2019 | Ireland, Norway, Czechia             | Denmark, Hungary |
+| 🚫   | ❌   | 2020 | Belgium                              |                  |
+| ⚫   | ⭕️   | 2024 | Bulgaria, Lithuania                  |                  |
+| ⚫   | ⭕️   | 2023 | Lithuania, Czechia, Netherlands, UK  |                  |
+| ⚫   | ⭕️   | 2022 | Latvia                               |                  |
+| ⚫   | ❌   |      | Greece                               | Everywhere       |
+| 🔴   |      |      | Sweden, Slovakia, Bulgaria           |                  |
+| ⚪   |      |      | Sweden, Turkey, Luxembourg           |                  |
+{.table-tight .table-car-meta}
+
 - Austria, Belgium: No car
 - Turkey: White car, No car
+- Eletric car: **Frankfurt, Hamburg, London, Ireland**
 - Blue car, With antenna, Mediterranean: **Italy, Croatia**. not Portugal, Spain, Greece, Turkey
-- White car: **Sweden, Turkey, Luxenburg**
+
 
 ## Europe Gen 3
 - With antenna: never **North Marcedonia**, **Turkey**
@@ -31,6 +42,7 @@ weight: 400
     | 2016 |  v  |     |     |  v  |  v  |  v  |  v  |  v  |
     | 2017 |     |  v  |  v  |  v  |  v  |  v  |     |     |
     | 2018 |     |     |     |  v  |     |     |  v  |     |
+    {.table-tight .header-first}
 
 ## Gen 3 with three ridges
 
