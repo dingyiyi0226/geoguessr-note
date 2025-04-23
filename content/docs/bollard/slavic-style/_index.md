@@ -60,16 +60,16 @@ Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 
 <--->
 
+### Hungary
+
+{{<figure src="bollard-blue-hu.png" caption="blue reflector" class="img-sm" >}}
+
 {{% /columns %}}
 
 
 ## Black top: Italy, Albania
 
 <img src="bollard-it.png" class="img-sm" />
-
-## Blue reflector: Hungary
-
-<img src="bollard-blue-hu.png" class="img-sm" />
 
 ## Eastern Russia
 
