@@ -1,6 +1,7 @@
 ---
 title: Introduction
 type: docs
+description: "Geoguessr tips and guide"
 ---
 
 # Geoguessr Note
