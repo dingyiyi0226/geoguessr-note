@@ -86,10 +86,21 @@ Switzerland, Liechtenstein
 
 {{% /columns %}}
 
+## Wedge, Retangular Reflector
+
+{{% columns %}}
 
 ### Andorra, Canary Islands, Spain
 
-<img src="bollard-ad.png" class="img-md" />
+{{<figure src="bollard-ad.png" caption="orange front reflector" class="img-md" >}}
+
+<--->
+
+### Greece
+
+{{<figure src="slavic-style/bollard-gr.png" caption="red front reflector" class="img-sm" >}}
+
+{{% /columns %}}
 
 ## Two red stripes: Netherland, Belgium
 
