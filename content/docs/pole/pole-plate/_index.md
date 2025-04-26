@@ -41,6 +41,28 @@ title: Pole plate/paint
 
 {{% /columns %}}
 
+## Yellow Black Stripe
+
+{{% columns %}}
+
+### Colombia
+
+{{<figure src="stripe-co.png" caption="" class="img-md" >}}
+
+<--->
+
+### Northern Colombia
+
+{{<figure src="stripe-co-2.png" caption="wide yellow section" class="img-md" >}}
+
+<--->
+
+### Peru
+
+{{<figure src="stripe-pe.png" caption="" class="img-md" >}}
+
+{{% /columns %}}
+
 ## Yellow Stripe
 
 {{% columns %}}
