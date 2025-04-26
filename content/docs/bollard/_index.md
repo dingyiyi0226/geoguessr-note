@@ -129,19 +129,27 @@ Switzerland, Liechtenstein
 
 {{% /columns %}}
 
-## Mexican Style
+## Concrete
 
-{{% columns ratio=2:1 %}}
+{{% columns %}}
 
 ### Mexico
 
-<img src="bollard-mx.png" class="img-lg"/>
+{{<figure src="bollard-mx.png" caption="sometimes no yellow" class="img-md" >}}
 
 <--->
 
 ### Moquegua (Peru)
 
 <img src="bollard-moquegua.png" class="img-md"/>
+
+<--->
+
+### Peru
+
+<img src="bollard-pe.png" class="img-md"/>
+
+<--->
 
 {{% /columns %}}
 
