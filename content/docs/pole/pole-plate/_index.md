@@ -1,8 +1,9 @@
 ---
 weight: 20
+title: Pole plate/paint
 ---
 
-# Pole Plate
+# Pole Plate and Pole Paint
 
 ## Blue Stickers
 
@@ -40,3 +41,20 @@ weight: 20
 
 {{% /columns %}}
 
+## Yellow Stripe
+
+{{% columns %}}
+
+### California
+
+{{<figure src="yellow-ca.png" caption="3 stripes" class="img-md" >}}
+
+<--->
+
+### Hawaii
+
+{{<figure src="yellow-hi.png" caption="1 stripe" class="img-md" >}}
+
+<--->
+
+{{% /columns %}}
