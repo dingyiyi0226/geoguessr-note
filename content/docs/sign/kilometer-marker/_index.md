@@ -7,3 +7,39 @@
 ## Hungary: Green marker
 
 <img src="kilo-hu.png" class="img-md">
+
+## Black White Stone
+
+{{% columns %}}
+
+### Peru
+
+{{<figure src="kilo-pe.png" caption="" class="img-md" >}}
+
+<--->
+
+### Colombia
+
+{{<figure src="kilo-co.png" caption="" class="img-md" >}}
+
+<--->
+
+{{% /columns %}}
+
+## Black White Flag
+
+{{% columns %}}
+
+### Bolivia
+
+{{<figure src="kilo-bo.png" caption="" class="img-md" >}}
+
+<--->
+
+### Argetina
+
+{{<figure src="kilo-ar.png" caption="" class="img-md" >}}
+
+<--->
+
+{{% /columns %}}
