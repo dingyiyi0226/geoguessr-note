@@ -8,6 +8,29 @@
 
 <img src="kilo-hu.png" class="img-md">
 
+## Europe Way Stone
+
+{{% columns %}}
+
+### France
+
+{{<figure src="kilo-fr.png" caption="yellow" class="img-md" >}}
+
+<--->
+
+### Romania
+
+{{<figure src="kilo-ro.png" caption="red/blue/no color" class="img-md" >}}
+
+<--->
+
+### Portugal
+
+{{<figure src="kilo-pt.png" caption="black and white" class="img-md" >}}
+
+
+{{% /columns %}}
+
 ## Black White Stone
 
 {{% columns %}}
