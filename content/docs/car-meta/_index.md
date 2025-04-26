@@ -46,26 +46,24 @@ weight: 400
 
 ## Stubby antenna
 
-Mexico, Colombia, Ecuador, Brazil
-
-{{<figure src="car-stubby-ec.png" caption="" class="img-lg" >}}
+{{<figure src="car-stubby-ec.png" caption="Mexico, Colombia, Ecuador, Brazil" class="img-lg" >}}
 
 ## Stubby antenna with three ridges
 
-New Zealand, Hawaii, Cambodia
-
-{{<figure src="car-three-ridge.png" caption="" class="img-lg" >}}
+{{<figure src="car-three-ridge.png" caption="New Zealand, Hawaii, Cambodia" class="img-lg" >}}
 
 {{% hint info %}}
 **Note**  
 May include countries not mentioned
 {{% /hint %}}
 
+## Thin stubby antenna
+
+{{<figure src="stubby-java.png" caption="Java (Indonesia)" class="img-lg" >}}
+
 ## Gen 3 white car with breaklight
 
-Mexico, Colombia, Brazil, Thailand
-
-{{<figure src="car-breaklight-mx.png" caption="" class="img-lg" >}}
+{{<figure src="car-breaklight-mx.png" caption="Mexico, Colombia, Brazil, Thailand" class="img-lg" >}}
 
 ## Sri Lanka
 
