@@ -63,7 +63,7 @@ May include countries not mentioned
 
 ## Gen 3 white car with breaklight
 
-Mexico, Colombia, Brazil
+Mexico, Colombia, Brazil, Thailand
 
 {{<figure src="car-breaklight-mx.png" caption="" class="img-lg" >}}
 
