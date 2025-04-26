@@ -44,7 +44,13 @@ weight: 400
     | 2018 |     |     |     |  v  |     |     |  v  |     |
     {.table-tight .header-first}
 
-## Gen 3 with three ridges
+## Stubby antenna
+
+Mexico, Colombia, Ecuador, Brazil
+
+{{<figure src="car-stubby-ec.png" caption="" class="img-lg" >}}
+
+## Stubby antenna with three ridges
 
 New Zealand, Hawaii, Cambodia
 
@@ -54,6 +60,16 @@ New Zealand, Hawaii, Cambodia
 **Note**  
 May include countries not mentioned
 {{% /hint %}}
+
+## Gen 3 white car with breaklight
+
+Mexico, Colombia, Brazil
+
+{{<figure src="car-breaklight-mx.png" caption="" class="img-lg" >}}
+
+## Sri Lanka
+
+{{<figure src="car-lk.png" caption="blue-white-red at the front" class="img-lg" >}}
 
 ## Special Car
 
@@ -101,6 +117,9 @@ May include countries not mentioned
 
 {{% /columns %}}
 
+### Bangladesh
+
+<img src="rack-bd.png" class="img-lg" />
 
 ### General Santos City, The Phillipines
 
