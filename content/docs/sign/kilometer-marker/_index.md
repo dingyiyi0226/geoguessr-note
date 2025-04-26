@@ -43,3 +43,25 @@
 <--->
 
 {{% /columns %}}
+
+## American Style: Green Vertical
+
+{{% columns %}}
+
+### Colombia
+
+{{<figure src="kilo-co-2.png" caption="with text Pr" class="img-md" >}}
+
+<--->
+
+### Puerto Rico
+
+{{<figure src="kilo-pr.png" caption="" class="img-md" >}}
+
+<--->
+
+{{% /columns %}}
+
+### Canada
+
+<img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/3709c75a-5e31-4fb9-b99d-e89c17890185/Canadian_KM_markers_map_w_numbers2.png">
