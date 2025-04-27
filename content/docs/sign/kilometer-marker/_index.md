@@ -31,7 +31,7 @@
 
 {{% /columns %}}
 
-## Black White Stone
+## South American Stone
 
 {{% columns %}}
 
@@ -46,6 +46,10 @@
 {{<figure src="kilo-co.png" caption="" class="img-md" >}}
 
 <--->
+
+### Uruguay
+
+{{<figure src="kilo-uy.png" caption="green" class="img-md" >}}
 
 {{% /columns %}}
 
