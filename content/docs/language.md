@@ -129,6 +129,7 @@ Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central 
 
 - Rúa (without accent in portuguese)
 - Town name with O, A articles: **A Pena, O Burgo**
+- **concello** for municipality
 
 ## Basque
 
