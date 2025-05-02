@@ -50,7 +50,7 @@ weight: 400
 
 ## Stubby antenna with three ridges
 
-{{<figure src="car-three-ridge.png" caption="New Zealand, Hawaii, Cambodia" class="img-lg" >}}
+{{<figure src="car-three-ridge.png" caption="New Zealand, Hawaii, Cambodia, United State" class="img-lg" >}}
 
 {{% hint info %}}
 **Note**  
