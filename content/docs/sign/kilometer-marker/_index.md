@@ -8,7 +8,7 @@
 
 <img src="kilo-hu.png" class="img-md">
 
-## Europe Way Stone
+## Way Stone
 
 {{% columns %}}
 
@@ -28,8 +28,29 @@
 
 {{<figure src="kilo-pt.png" caption="black and white" class="img-md" >}}
 
+{{% /columns %}}
+
+{{% columns %}}
+
+### Senegal
+
+{{<figure src="kilo-sn.png" caption="" class="img-md" >}}
+
+<--->
+
+### Tunisia
+
+{{<figure src="kilo-tn.png" caption="" class="img-md" >}}
+
+<--->
+
+### Cambodia
+
+{{<figure src="kilo-kh.png" caption="" class="img-md" >}}
+
 
 {{% /columns %}}
+
 
 ## South American Stone
 
