@@ -63,6 +63,13 @@ White dashes between yellow center line
 
 <img src="line-sask.png" class="img-lg" />
 
+### Middle Yellow Lines in North America
+
+- **USA**: Always double yellow
+- **Nova Scotia**: Always double yellow
+- **New Brunswick**: More single yellow
+- **Quebec**: More double yellow
+
 ## Triple center line
 
 ### Uruguay
