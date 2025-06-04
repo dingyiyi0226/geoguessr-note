@@ -32,4 +32,4 @@
 
 ## South America
 
-- Thick signpost: Urugray, Bolivia
+- Thick signpost: Uruguay, Bolivia

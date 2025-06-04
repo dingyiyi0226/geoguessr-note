@@ -41,4 +41,4 @@ weight: 100
 |      |             |     | +51  | Peru      |
 | +250 | Rwanda      |     | +591 | Bolivia   |
 | +254 | Kenya       |     | +593 | Ecuador   |
-| +256 | Uganda      |     | +598 | Urugray   |
+| +256 | Uganda      |     | +598 | Uruguay   |
