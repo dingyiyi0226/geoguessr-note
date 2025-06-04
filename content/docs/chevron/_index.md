@@ -22,7 +22,7 @@ Sweden, <span class="text-rare">Luxembourg</span>
 
 ### Black on White
 
-Serbia, Montenegro, North Marcedonia, Slovenia
+Serbia, Montenegro, North Macedonia, Slovenia
 
 <img src="chevron-rs.png" class="img-md" />
 
