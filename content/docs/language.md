@@ -10,7 +10,7 @@ Netherland, Belgium
 **French**  
 France, Belgium, Switzerland  
 **German**  
-Germany, Belgium, Luxemberg, Austria, Switzerland  
+Germany, Belgium, Luxembourg, Austria, Switzerland  
 **Slavic**  
 Poland, Czechia, Slovakia, Yugoslavia (Slovenia, Croatia, Bosnia, Montenegro, Serbia, North Macedonia)  
 **Cyrillic script**  
@@ -171,7 +171,7 @@ The only useful part is to distinguish between Ukraine and Russia
 ### Balkan
 
 - **Serbia**: њ љ џ ј ђ <font color="#aaa">ъ й ё ы э</font>
-- **Marcedonia**: њ љ џ ј ѕ ѓ ќ <font color="#aaa">ъ й ё ы э</font>
+- **Macedonia**: њ љ џ ј ѕ ѓ ќ <font color="#aaa">ъ й ё ы э</font>
 - **Bulgaria**: ѕ <font color="#aaa">й ё ы э</font>
 - **Ukraine**: ґ є і ї <font color="#aaa">ъ й ё ы э</font>
 

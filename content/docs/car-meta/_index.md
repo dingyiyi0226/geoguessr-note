@@ -29,7 +29,7 @@ weight: 400
 
 
 ## Europe Gen 3
-- With antenna: never **North Marcedonia**, **Turkey**
+- With antenna: never **North Macedonia**, **Turkey**
 - Winter: **Czechia, Hungary, Bulgaria**
 - Side mirror with yellow sticker: **Croatia**
 - Before 2019 🇭🇷 🇸🇮 🇷🇴 🇧🇬 🇷🇸 🇲🇰 🇲🇪 🇦🇱:

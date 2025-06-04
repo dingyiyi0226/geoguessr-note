@@ -111,11 +111,11 @@ weight: 10
 
 ### With Belt
 
-Germany, Luxembourg, Hungary, Croatia, Montenegro, North Marcedonia, Portugal, <span class="text-rare">Slovakia</span>
+Germany, Luxembourg, Hungary, Croatia, Montenegro, North Macedonia, Portugal, <span class="text-rare">Slovakia</span>
 
 ### Yellow Background
 
-Finland, Sweden, Iceland, Poland, North Marcedonia, Greece
+Finland, Sweden, Iceland, Poland, North Macedonia, Greece
 
 
 ## Give way
@@ -174,7 +174,7 @@ Finland, Sweden, Iceland, Poland, North Marcedonia, Greece
 
 ### Yellow Background
 
-Finland, Sweden, Iceland,  Poland, North Marcedonia, Greece, Croatia, Slovenia
+Finland, Sweden, Iceland,  Poland, North Macedonia, Greece, Croatia, Slovenia
 
 ## Stop
 
