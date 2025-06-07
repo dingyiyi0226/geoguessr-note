@@ -44,6 +44,52 @@ weight: 400
     | 2018 |     |     |     |  v  |     |     |  v  |     |
     {.table-tight .header-first}
 
+## Europe Gen 3 antenna with tape
+
+{{% columns %}}
+
+#### Czechia
+
+{{<figure src="ant-cz.png" class="img-md" >}}
+
+<--->
+
+#### Slovakia
+
+{{<figure src="ant-sk.png" class="img-md" >}}
+
+<--->
+
+#### Hungary
+
+{{<figure src="ant-hu.png" class="img-md" >}}
+
+{{% /columns %}}
+{{% columns %}}
+
+#### Romania
+
+{{<figure src="ant-ro.png" class="img-md" >}}
+
+<--->
+
+#### Bulgaria
+
+{{<figure src="ant-bg-1.png" class="img-md" >}}
+
+<--->
+
+#### Bulgaria
+
+{{<figure src="ant-bg-2.png" class="img-md" >}}
+
+{{% /columns %}}
+
+{{% hint warning %}}
+**Warning**  
+This is the experimental meta
+{{% /hint %}}
+
 ## Stubby antenna
 
 {{<figure src="car-stubby-ec.png" caption="Mexico, Colombia, Ecuador, Brazil" class="img-lg" >}}
@@ -52,9 +98,9 @@ weight: 400
 
 {{<figure src="car-three-ridge.png" caption="New Zealand, Hawaii, Cambodia, United State" class="img-lg" >}}
 
-{{% hint info %}}
-**Note**  
-May include countries not mentioned
+{{% hint warning %}}
+**Warning**  
+This is the experimental meta
 {{% /hint %}}
 
 ## Thin stubby antenna
