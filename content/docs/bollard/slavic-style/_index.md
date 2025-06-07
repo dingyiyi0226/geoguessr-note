@@ -14,25 +14,25 @@ Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 
 {{% columns %}}
 
-### Hungary
+#### Hungary
 
 <img src="bollard-hu.png" class="img-sm" />
 
 <--->
 
-### Croatia
+#### Croatia
 
 <img src="bollard-hr.png" class="img-sm" />
 
 <--->
 
-### Russia
+#### Russia
 
 <img src="bollard-ru.png" class="img-sm" />
 
 <--->
 
-### Ukraine
+#### Ukraine
 
 <img src="bollard-ua.png" class="img-sm" />
 
@@ -42,25 +42,25 @@ Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 
 {{% columns %}}
 
-### Greece
+#### Greece
 
 {{<figure src="bollard-gr.png" caption="almost square" class="img-sm" >}}
 
 <--->
 
-### Serbia
+#### Serbia
 
 {{<figure src="bollard-rs.png" caption="off-centered" class="img-sm" >}}
 
 <--->
 
-### Lithuania
+#### Lithuania
 
 {{<figure src="bollard-lt.png" caption="orange reflector" class="img-sm" >}}
 
 <--->
 
-### Hungary
+#### Hungary
 
 {{<figure src="bollard-blue-hu.png" caption="blue reflector" class="img-sm" >}}
 

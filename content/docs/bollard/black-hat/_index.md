@@ -16,13 +16,13 @@ Austria, Slovenia, Croatia, Montenegro
 
 {{% columns %}}
 
-### Russia
+#### Russia
 
 {{<figure src="bollard-ru.png" caption="reflector on top" class="img-sm" >}}
 
 <--->
 
-### Serbia
+#### Serbia
 
 {{<figure src="bollard-rs.png" caption="off-centered" class="img-sm" >}}
 

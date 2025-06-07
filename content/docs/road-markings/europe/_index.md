@@ -18,13 +18,13 @@ Sweden, Romania, Spain, Netherland
 
 {{% columns %}}
 
-### Normay
+#### Normay
 
 {{<figure src="line-yellow-no.png" caption="with orange tint" class="img-md" >}}
 
 <--->
 
-### Finland
+#### Finland
 
 {{<figure src="line-fi.png" caption="with white dashes" class="img-md" >}}
 

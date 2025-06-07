@@ -10,19 +10,19 @@ Baton or curved shape, white or orange
 
 {{% columns %}}
 
-### Estonia
+#### Estonia
 
 {{<figure src="bollard-ee.png" caption="white or orange" class="img-sm" >}}
 
 <--->
 
-### Finland
+#### Finland
 
 {{<figure src="bollard-fi.png" caption="always white" class="img-sm" >}}
 
 <--->
 
-### Sweden
+#### Sweden
 
 {{<figure src="bollard-baton-se.png" caption="rect. black strip" class="img-sm" >}}
 
@@ -34,19 +34,19 @@ Baton or curved shape, white or orange
 
 {{% columns %}}
 
-### Lativia
+#### Lativia
 
 {{<figure src="bollard-lv.png" caption="white or orange" class="img-sm" >}}
 
 <--->
 
-### Norway
+#### Norway
 
 {{<figure src="bollard-no.png" caption="black strip on top" class="img-sm" >}}
 
 <--->
 
-### Sweden
+#### Sweden
 
 {{<figure src="bollard-curved-se.png" caption="rect. black strip" class="img-sm" >}}
 

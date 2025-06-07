@@ -7,13 +7,13 @@ weight: 42
 
 {{% columns %}}
 
-## Poland
+#### Poland
 
 <img src="bollard-pl.png" />
 
 <--->
 
-## New Zealand
+#### New Zealand
 
 <img src="bollard-nz.png" />
 
@@ -21,25 +21,25 @@ weight: 42
 
 {{% columns %}}
 
-## Australia
+#### Australia
 
 <img src="bollard-au.png" class="img-sm" />
 
 <--->
 
-## Turkey
+#### Turkey
 
 <img src="bollard-tr.png" class="img-sm" />
 
 <--->
 
-## Romania
+#### Romania
 
 <img src="bollard-ro.png" class="img-sm" />
 
 <--->
 
-## Netherland
+#### Netherland
 
 <img src="bollard-nl.png" class="img-sm" />
 

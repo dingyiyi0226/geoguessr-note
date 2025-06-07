@@ -8,19 +8,19 @@ weight: 60
 
 {{% columns %}}
 
-### Norway
+#### Norway
 
 {{<figure src="snowpole-no-1.png" caption="shorter" class="img-sm" >}}
 
 <--->
 
-### Sweden
+#### Sweden
 
 {{<figure src="snowpole-se-1.png" caption="longer" class="img-sm" >}}
 
 <--->
 
-### Finland
+#### Finland
 
 {{<figure src="snowpole-fi.png" caption="close to the top" class="img-sm" >}}
 
@@ -30,25 +30,25 @@ weight: 60
 
 {{% columns %}}
 
-### Norway
+#### Norway
 
 {{<figure src="snowpole-no-2.png" caption="shorter mid" class="img-sm" >}}
 
 <--->
 
-### Sweden
+#### Sweden
 
 {{<figure src="snowpole-se-2.png" caption="longer mid" class="img-sm" >}}
 
 <--->
 
-### Lapland (Finland)
+#### Lapland (Finland)
 
 {{<figure src="snowpole-lap.png" caption="both longer" class="img-sm" >}}
 
 <--->
 
-### No Se E12
+#### No Se E12
 
 {{<figure src="snowpole-e12.png" caption="longer and closer" class="img-sm" >}}
 
@@ -58,13 +58,13 @@ weight: 60
 
 {{% columns %}}
 
-### Black
+#### Black
 
 {{<figure src="snowpole-black.png" caption="Bergen-Trondheim" class="img-sm" >}}
 
 <--->
 
-### Bamboo
+#### Bamboo
 
 {{<figure src="snowpole-bamboo.png" caption="South of Trondheim" class="img-sm" >}}
 
@@ -79,4 +79,3 @@ weight: 60
 ## Andorra
 
 {{<figure src="snowpole-ad.png" caption="" class="img-md" >}}
-

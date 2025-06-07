@@ -15,19 +15,19 @@ France, Spain, Senegal
 
 {{% columns %}}
 
-### Portugal
+#### Portugal
 
 {{<figure src="pole-pt.png" caption="with see through holes" class="img-md" >}}
 
 <--->
 
-### Brazil
+#### Brazil
 
 <img src="pole-br.png" class="img-md" />
 
 <--->
 
-### Nigeria
+#### Nigeria
 
 <img src="pole-ng.png" class="img-md" />
 
@@ -37,19 +37,19 @@ France, Spain, Senegal
 
 {{% columns %}}
 
-### Hungary
+#### Hungary
 
 <img src="pole-hu.png" class="img-md" />
 
 <--->
 
-### Romania
+#### Romania
 
 {{<figure src="pole-ro.png" caption="sometimes with white bottom" class="img-md" >}}
 
 <--->
 
-### Poland
+#### Poland
 
 {{<figure src="pole-pl.png" caption="sometimes with A frame" class="img-md" >}}
 
@@ -57,13 +57,13 @@ France, Spain, Senegal
 
 {{% columns %}}
 
-### Belgium
+#### Belgium
 
 {{<figure src="pole-be.png" caption="similar to portugal style" class="img-md" >}}
 
 <--->
 
-### Sri Lanka
+#### Sri Lanka
 
 <img src="pole-lk.png" class="img-md" />
 
@@ -78,13 +78,13 @@ France, Spain, Senegal
 
 {{% columns %}}
 
-### Thailand, Laos
+#### Thailand, Laos
 
 <img src="pole-th.png" class="img-md" />
 
 <--->
 
-### Sri Lanka:
+#### Sri Lanka:
 
 {{<figure src="pole-square-lk.png" caption="holes only on top" class="img-md" >}}
 
@@ -102,13 +102,13 @@ France, Spain, Senegal
 
 {{% columns ratio="3:2" %}}
 
-### Cambodia
+#### Cambodia
 
 <img src="https://hackmd.io/_uploads/r1MPQvhNkx.png" style="width: 80%;" />
 
 <--->
 
-### Taiwan
+#### Taiwan
 
 <img src="pole-tw.png" class="img-md" />
 

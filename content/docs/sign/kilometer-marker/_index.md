@@ -12,19 +12,19 @@
 
 {{% columns %}}
 
-### France
+#### France
 
 {{<figure src="kilo-fr.png" caption="yellow" class="img-md" >}}
 
 <--->
 
-### Romania
+#### Romania
 
 {{<figure src="kilo-ro.png" caption="red/blue/no color" class="img-md" >}}
 
 <--->
 
-### Portugal
+#### Portugal
 
 {{<figure src="kilo-pt.png" caption="black and white" class="img-md" >}}
 
@@ -32,19 +32,19 @@
 
 {{% columns %}}
 
-### Senegal
+#### Senegal
 
 {{<figure src="kilo-sn.png" caption="" class="img-md" >}}
 
 <--->
 
-### Tunisia
+#### Tunisia
 
 {{<figure src="kilo-tn.png" caption="" class="img-md" >}}
 
 <--->
 
-### Cambodia
+#### Cambodia
 
 {{<figure src="kilo-kh.png" caption="" class="img-md" >}}
 
@@ -56,19 +56,19 @@
 
 {{% columns %}}
 
-### Peru
+#### Peru
 
 {{<figure src="kilo-pe.png" caption="" class="img-md" >}}
 
 <--->
 
-### Colombia
+#### Colombia
 
 {{<figure src="kilo-co.png" caption="" class="img-md" >}}
 
 <--->
 
-### Uruguay
+#### Uruguay
 
 {{<figure src="kilo-uy.png" caption="green" class="img-md" >}}
 
@@ -78,13 +78,13 @@
 
 {{% columns %}}
 
-### Bolivia
+#### Bolivia
 
 {{<figure src="kilo-bo.png" caption="" class="img-md" >}}
 
 <--->
 
-### Argetina
+#### Argetina
 
 {{<figure src="kilo-ar.png" caption="" class="img-md" >}}
 
@@ -96,13 +96,13 @@
 
 {{% columns %}}
 
-### Colombia
+#### Colombia
 
 {{<figure src="kilo-co-2.png" caption="with text Pr" class="img-md" >}}
 
 <--->
 
-### Puerto Rico
+#### Puerto Rico
 
 {{<figure src="kilo-pr.png" caption="" class="img-md" >}}
 
