@@ -152,13 +152,13 @@
 
 {{% columns %}}
 
-### Kansai 関西
+#### Kansai 関西
 
 {{<figure src="zigzag-kansai.png" caption="" class="img-md" >}}
 
 <--->
 
-### Tohoku 東北
+#### Tohoku 東北
 
 {{<figure src="zigzag-tohoku.png" caption="with round plate" class="img-md" >}}
 
@@ -168,13 +168,13 @@
 
 {{% columns %}}
 
-### 120 Degree
+#### 120 Degree
 
 {{<figure src="zigzag-120.png" caption="Kansai 関西" class="img-md" >}}
 
 <--->
 
-### 90 Degree
+#### 90 Degree
 
 {{<figure src="zigzag-90.png" caption="Shikoku 四国" class="img-md" >}}
 
@@ -186,19 +186,19 @@
 
 {{% columns %}}
 
-### Long bar
+#### Long bar
 
 {{<figure src="topbar-long.png" caption="Kanto 関東" class="img-md" >}}
 
 <--->
 
-### Short bar
+#### Short bar
 
 {{<figure src="topbar-short.png" caption="Chubu 中部" class="img-md" >}}
 
 <--->
 
-### Thin line
+#### Thin line
 
 {{<figure src="zigzag-120.png" caption="Kansai 関西" class="img-md" >}}
 
@@ -208,19 +208,19 @@
 
 {{% columns %}}
 
-### Four thick bar
+#### Four thick bar
 
 {{<figure src="pyramid-thick.png" caption="Chubu 中部" class="img-md" >}}
 
 <--->
 
-### Two side tent
+#### Two side tent
 
 {{<figure src="pyramid-tent.png" caption="Hokuriku 北陸" class="img-md" >}}
 
 <--->
 
-### Four thin bar
+#### Four thin bar
 
 {{<figure src="pyramid-thin.png" caption="Chugoku 中国" class="img-md" >}}
 
@@ -234,13 +234,13 @@
 
 {{% columns %}}
 
-### Long horizontal
+#### Long horizontal
 
 {{<figure src="insulator-long-hori.png" caption="Chugoku 中国" class="img-md" >}}
 
 <--->
 
-### Lamp
+#### Lamp
 
 {{<figure src="insulator-lamp.png" caption="Hokuriku 北陸" class="img-md" >}}
 

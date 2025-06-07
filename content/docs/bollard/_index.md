@@ -9,19 +9,19 @@ bookCollapseSection: true
 
 {{% columns %}}
 
-### France, Senegal
+#### France, Senegal
 
 {{<figure src="bollard-fr.png" caption="red or grey" class="img-sm" >}}
 
 <--->
 
-### Scotland (UK)
+#### Scotland (UK)
 
 {{<figure src="bollard-scotland.png" caption="rounded top" class="img-sm" >}}
 
 <--->
 
-### France
+#### France
 
 {{<figure src="bollard-flag-fr.png" caption="" class="img-sm" >}}
 
@@ -33,12 +33,12 @@ bookCollapseSection: true
 
 {{% columns %}}
 
-### Wedge
+#### Wedge
 <img src="bollard-cz.png" class="img-md" />
 
 <--->
 
-### Curved
+#### Curved
 <img src="bollard-sk.png" class="img-md" />
 
 <--->
@@ -50,13 +50,13 @@ bookCollapseSection: true
 
 {{% columns %}}
 
-### Belgium
+#### Belgium
 
 <img src="bollard-be.png" class="img-sm" />
 
 <--->
 
-### Denmark
+#### Denmark
 
 <img src="bollard-dk.png" class="img-sm" />
 
@@ -75,12 +75,12 @@ Switzerland, Liechtenstein
 
 {{% columns %}}
 
-### Spain
+#### Spain
 <img src="bollard-es.png" />
 
 <--->
 
-### Chile
+#### Chile
 
 <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/4b587071-80b9-48fa-b796-86e152960c2a/bollard.png" />
 
@@ -90,13 +90,13 @@ Switzerland, Liechtenstein
 
 {{% columns %}}
 
-### Andorra, Canary Islands, Spain
+#### Andorra, Canary Islands, Spain
 
 {{<figure src="bollard-ad.png" caption="orange front reflector" class="img-md" >}}
 
 <--->
 
-### Greece
+#### Greece
 
 {{<figure src="slavic-style/bollard-gr.png" caption="red front reflector" class="img-sm" >}}
 
@@ -110,19 +110,19 @@ Switzerland, Liechtenstein
 
 {{% columns %}}
 
-### Red and White
+#### Red and White
 
 {{<figure src="bollard-bd.png" caption="Bangladesh, Cambodia" class="img-md" >}}
 
 <--->
 
-### Black and White
+#### Black and White
 
 {{<figure src="bollard-th.png" caption="Thailand, Laos, Indonesia" class="img-md" >}}
 
 <--->
 
-### Sri Lanka
+#### Sri Lanka
 
 {{<figure src="bollard-lk.png" class="img-md" >}}
 
@@ -133,19 +133,19 @@ Switzerland, Liechtenstein
 
 {{% columns %}}
 
-### Mexico
+#### Mexico
 
 {{<figure src="bollard-mx.png" caption="sometimes no yellow" class="img-md" >}}
 
 <--->
 
-### Moquegua (Peru)
+#### Moquegua (Peru)
 
 <img src="bollard-moquegua.png" class="img-md"/>
 
 <--->
 
-### Peru
+#### Peru
 
 <img src="bollard-pe.png" class="img-md"/>
 
@@ -157,13 +157,13 @@ Switzerland, Liechtenstein
 
 {{% columns %}}
 
-### Mongolia
+#### Mongolia
 
 {{<figure src="bollard-mn.png" caption="bowling shape" class="img-sm" >}}
 
 <--->
 
-### Iceland
+#### Iceland
 
 {{<figure src="bollard-is.png" caption="" class="img-sm" >}}
 
@@ -171,4 +171,3 @@ Switzerland, Liechtenstein
 <--->
 
 {{% /columns %}}
-

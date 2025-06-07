@@ -14,13 +14,13 @@ US, Canada, Phillipines,
 
 {{% columns %}}
 
-### Lativia
+#### Lativia
 
 <img src="hook-lv.png" class="img-md" />
 
 <--->
 
-### Bulgaria
+#### Bulgaria
 
 <img src="hook-bg.png" class="img-md" />
 
@@ -42,17 +42,16 @@ Romania, Czechia, Slovakia, Albania, Serbia
 
 {{% columns %}}
 
-### Argentina
+#### Argentina
 
 <img src="pole-top-bar-ar.png" class="img-md" />
 
 <--->
 
-### Peru
+#### Peru
 
 <img src="pole-top-bar-pe.png" class="img-md" />
 
 <--->
 
 {{% /columns %}}
-

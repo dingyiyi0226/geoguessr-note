@@ -14,19 +14,19 @@
 
 {{% columns %}}
 
-### Long vertical
+#### Long vertical
 
 {{<figure src="poletop-v-long.png" caption="Jujoy, Misiones" class="img-md" >}}
 
 <--->
 
-### Short vertical
+#### Short vertical
 
 {{<figure src="poletop-v-short.png" caption="San Luis" class="img-md" >}}
 
 <--->
 
-### No vertical
+#### No vertical
 
 {{<figure src="poletop-v-no.png" caption="Corrientes" class="img-md" >}}
 
@@ -36,13 +36,13 @@
 
 {{% columns %}}
 
-### Long Cap
+#### Long Cap
 
 {{<figure src="poletop-long-cap.png" caption="San Luis" class="img-md" >}}
 
 <--->
 
-### No Cap
+#### No Cap
 
 {{<figure src="poletop-no-cap.png" caption="Córdoba, BA" class="img-md" >}}
 

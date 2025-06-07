@@ -12,19 +12,19 @@ The US part is not finished yet. The US has tons of similar pole tops
 
 {{% columns %}}
 
-### Ontario, <span class="text-rare"> BC </span>
+#### Ontario, <span class="text-rare"> BC </span>
 
 {{<figure src="poletop-ontario.png" caption="" class="img-md" >}}
 
 <--->
 
-### Quebec
+#### Quebec
 
 {{<figure src="poletop-quebec.png" caption="" class="img-md" >}}
 
 <--->
 
-### Prince Edward Island
+#### Prince Edward Island
 
 {{<figure src="poletop-pei.png" caption="" class="img-md" >}}
 
@@ -64,13 +64,13 @@ More common in **New Brunswick**
 
 {{% columns %}}
 
-### Higher
+#### Higher
 
 {{<figure src="crossbeam-nb.png" caption="NB, Quebec" class="img-md" >}}
 
 <--->
 
-### Lower
+#### Lower
 
 {{<figure src="crossbeam-ns.png" caption="NS, Ontario" class="img-md" >}}
 

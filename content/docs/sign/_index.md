@@ -9,13 +9,13 @@ bookCollapseSection: false
 
 {{% columns %}}
 
-### Portugal
+#### Portugal
 
 {{<figure src="hunting-pt.png" caption="diamond or rectangle" class="img-md" >}}
 
 <--->
 
-### Spain
+#### Spain
 
 {{<figure src="hunting-es.png" caption="black and white" class="img-md" >}}
 
@@ -37,13 +37,13 @@ Germany, Luxembourg, Italy, Albania, Romania
 
 {{% columns %}}
 
-### Norway
+#### Norway
 
 {{<figure src="passing-no.png" caption="" class="img-md" >}}
 
 <--->
 
-### Sweden
+#### Sweden
 
 {{<figure src="passing-se.png" caption="" class="img-md" >}}
 
@@ -59,13 +59,13 @@ Germany, Luxembourg, Italy, Albania, Romania
 
 {{% columns %}}
 
-### Western Australia
+#### Western Australia
 
 {{<figure src="prop-wa.png" caption="green marker" class="img-md" >}}
 
 <--->
 
-### South Australia
+#### South Australia
 
 {{<figure src="prop-sa.png" caption="white marker" class="img-md" >}}
 

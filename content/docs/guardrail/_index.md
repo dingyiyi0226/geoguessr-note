@@ -23,19 +23,19 @@ weight: 70
 
 {{% columns %}}
 
-### New Brunswick
+#### New Brunswick
 
 {{<figure src="guardrail-nb.png" caption="generic canadian style" class="img-md" >}}
 
 <--->
 
-### Nova Scotia
+#### Nova Scotia
 
 {{<figure src="guardrail-ns.png" caption="longer 2nd piece, w/ reflector" class="img-md" >}}
 
 <--->
 
-### Newfoundland
+#### Newfoundland
 
 {{<figure src="guardrail-nl.png" caption="pyrimid top" class="img-md" >}}
 

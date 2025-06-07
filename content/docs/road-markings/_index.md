@@ -25,13 +25,13 @@ South Africa, Botswana, Lesotho, Eswatini, Israel, Jordan, UAE, Oman
 
 {{% columns %}}
 
-### Ireland
+#### Ireland
 
 <img src="line-ie.png" class="img-md">
 
 <--->
 
-### New Zealand
+#### New Zealand
 
 <img src="line-nz.png" class="img-md">
 
@@ -43,13 +43,13 @@ South Africa, Botswana, Lesotho, Eswatini, Israel, Jordan, UAE, Oman
 
 {{% columns %}}
 
-### Chile
+#### Chile
 
 {{<figure src="line-white-cl.png" caption="all white" class="img-md" >}}
 
 <--->
 
-### National Parks in Chile
+#### National Parks in Chile
 
 {{<figure src="line-yellow-cl.png" caption="all yellow" class="img-md" >}}
 

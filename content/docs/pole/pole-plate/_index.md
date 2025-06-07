@@ -9,13 +9,13 @@ title: Pole plate/paint
 
 {{% columns %}}
 
-### France
+#### France
 
 <img src="sticker-fr.png" class="img-md" />
 
 <--->
 
-### Queensland, Australia
+#### Queensland, Australia
 
 <img src="sticker-qld.png" class="img-md" />
 
@@ -27,13 +27,13 @@ title: Pole plate/paint
 
 {{% columns %}}
 
-### United Kingdom
+#### United Kingdom
 
 {{<figure src="warning-uk.png" caption="Person got zapped" class="img-md" >}}
 
 <--->
 
-### Ireland
+#### Ireland
 
 <img src="warning-ie.png" class="img-md" />
 
@@ -45,19 +45,19 @@ title: Pole plate/paint
 
 {{% columns %}}
 
-### Colombia
+#### Colombia
 
 {{<figure src="stripe-co.png" caption="" class="img-md" >}}
 
 <--->
 
-### Northern Colombia
+#### Northern Colombia
 
 {{<figure src="stripe-co-2.png" caption="wide yellow section" class="img-md" >}}
 
 <--->
 
-### Peru
+#### Peru
 
 {{<figure src="stripe-pe.png" caption="" class="img-md" >}}
 
@@ -67,13 +67,13 @@ title: Pole plate/paint
 
 {{% columns %}}
 
-### California
+#### California
 
 {{<figure src="yellow-ca.png" caption="3 stripes" class="img-md" >}}
 
 <--->
 
-### Hawaii
+#### Hawaii
 
 {{<figure src="yellow-hi.png" caption="1 stripe" class="img-md" >}}
 
