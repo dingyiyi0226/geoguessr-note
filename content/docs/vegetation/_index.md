@@ -27,3 +27,24 @@ weight: 90
 
 {{<figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pinus_sylvestris_range-01.png/1280px-Pinus_sylvestris_range-01.png" caption="" >}}
 
+## Norway Spruce - [Picea abies](https://en.wikipedia.org/wiki/Picea_abies)
+
+- Drooping side branches; overall a conical or pyramidal shape with a narrow crown.
+
+{{% columns %}}
+
+#### Finland
+
+{{<figure src="norway-spruce-fi.png" class="img-lg"
+    link="https://www.google.com/maps/@63.5081167,24.5707076,3a,90y,176.91h,106.25t/data=!3m7!1e1!3m5!1sJcpx8SVEMeZ4mzw1UtTmmg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.25%26panoid%3DJcpx8SVEMeZ4mzw1UtTmmg%26yaw%3D176.91!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D" target="_blank">}}
+
+<--->
+
+#### Austria
+
+{{<figure src="norway-spruce-at.png" class="img-lg" caption="In dense spruce forests, lower trunks are often branchless."
+    link="https://www.google.com/maps/@47.256366,12.26363,3a,75y,276.52h,118.09t/data=!3m7!1e1!3m5!1sZagsYhf4iFdkdLD1BtkqmA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-28.09477177181853%26panoid%3DZagsYhf4iFdkdLD1BtkqmA%26yaw%3D276.5229446366073!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D" target="_blank">}}
+
+{{% /columns %}}
+
+{{<figure src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Norway_Spruce_Picea_abies_distribution_map_2.png" caption="" class="img-lg">}}
