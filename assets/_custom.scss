@@ -53,4 +53,9 @@
   table tbody tr:nth-child(odd) {
     background: var(--gray-100);
   }
+
+  // reset styles settings for details under blockquote
+  blockquote details summary:first-child {
+    margin-top: -$padding-16;
+  }
 }

@@ -51,6 +51,32 @@
 
 {{% /columns %}}
 
+## South East Asian Stone
+
+{{% columns %}}
+
+#### Philippines
+
+{{<figure src="kilo-ph.png" caption="" class="img-md" >}}
+
+<--->
+
+#### Indonesia
+
+{{<figure src="kilo-id.png" caption="" class="img-md" >}}
+
+<--->
+
+{{% /columns %}}
+
+{{% hint info %}}
+**Note**  
+The 0 km location for the Phillipines can see this image by bullfrogggy
+{{% details "Expand" %}}
+{{<figure src="https://i.gyazo.com/e0106566daaf2df093b01c2be8c56138.png" caption="" class="img-lg" >}}
+{{% /details %}}
+
+{{% /hint %}}
 
 ## South American Stone
 
@@ -91,6 +117,10 @@
 <--->
 
 {{% /columns %}}
+
+## Indonesia
+
+{{<figure src="kilo-id-2.png" caption="" class="img-md" >}}
 
 ## American Style: Green Vertical
 
