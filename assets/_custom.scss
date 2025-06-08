@@ -47,11 +47,8 @@
     min-width: $body-min-width * 0.4;
   }
 
-  table tbody tr:nth-child(even) {
-    background: none;
-  }
-  table tbody tr:nth-child(odd) {
-    background: var(--gray-100);
+  table th {
+    background: color-mix(in srgb, var(--gray-100), var(--gray-200));
   }
 
   // reset styles settings for details under blockquote
