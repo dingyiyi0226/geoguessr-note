@@ -1,7 +1,7 @@
 .markdown {
   // custom class
   .text-rare {
-    color: #aaa;
+    color: var(--gray-500);
   }
 
   img.img-sm,
@@ -22,8 +22,8 @@
 
   .table-tight th,
   .table-tight td {
-    padding-top: 0.25rem;
-    padding-bottom: 0.25rem;
+    padding-top: $padding-4;
+    padding-bottom: $padding-4;
     border: 0;
   }
 
@@ -35,7 +35,7 @@
   }
 
   .table-car-meta td:last-child {
-    color: #aaa;
+    color: var(--gray-500);
   }
 
   // overwrite default
