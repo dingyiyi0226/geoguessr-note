@@ -1,0 +1,2 @@
+{{- $js := resources.Get "theme-toggle.js" | resources.ExecuteAsTemplate "theme-toggle.js" . | resources.Minify | resources.Fingerprint -}}
+<script defer src="{{ $js.RelPermalink }}" {{ template "integrity" $js }}></script>
