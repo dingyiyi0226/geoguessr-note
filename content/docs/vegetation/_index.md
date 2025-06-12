@@ -48,3 +48,27 @@ weight: 90
 {{% /columns %}}
 
 {{<figure src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Norway_Spruce_Picea_abies_distribution_map_2.png" caption="" class="img-lg">}}
+
+## European Larch - [Larix decidua](https://en.wikipedia.org/wiki/Larix_decidua)
+
+- Bright green foliage in summer — will turn golden yellow in autumn (deciduous conifer)
+- Fissured bark
+
+{{% columns %}}
+
+#### France
+
+{{<figure src="european-larch-fr.png" class="img-lg" caption=""
+    link="https://www.google.com/maps/@44.714101,6.917275,3a,72.1y,283.83h,97.31t/data=!3m5!1e1!3m3!1sqho6WPb9mGBGhOfCyIeCqg!2e0!6shttps%3A%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fw%3D900%26h%3D600%26panoid%3Dqho6WPb9mGBGhOfCyIeCqg%26cb_client%3Dmaps_sv.share%26yaw%3D283.8251453603356%26pitch%3D-7.313950076676917%26thumbfov%3D72?coh=235716&entry=tts" target="_blank">}}
+
+<--->
+
+#### Austria
+
+{{<figure src="european-larch-at.png" class="img-lg" caption=""
+    link="https://www.google.com/maps/@47.735536,12.977763,3a,99.3y,25.73h,95.08t/data=!3m5!1e1!3m3!1sKJiFTKwVekq0ggySx1Ab4w!2e0!6shttps%3A%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fw%3D900%26h%3D600%26panoid%3DKJiFTKwVekq0ggySx1Ab4w%26cb_client%3Dmaps_sv.share%26yaw%3D25.72829911206807%26pitch%3D-5.075559680230185%26thumbfov%3D99?coh=235716&entry=tts" target="_blank">}}
+
+{{% /columns %}}
+
+{{<figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Larix_decidua_range.svg/960px-Larix_decidua_range.svg.png" caption="" class="img-lg">}}
+
