@@ -1,6 +1,6 @@
 ---
 weight: 40
-bookCollapseSection: false
+bookCollapseSection: true
 ---
 
 # Sign
