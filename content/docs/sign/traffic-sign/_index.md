@@ -238,3 +238,67 @@ Finland, Sweden, Iceland,  Poland, North Macedonia, Greece, Croatia, Slovenia
 <--->
 
 {{% /columns %}}
+
+## Bus stop
+
+{{% columns %}}
+
+#### Lativia
+
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Latvia_road_sign_541.svg"
+  caption="5 windows" class="img-sm"
+>}}
+
+<--->
+
+#### Estonia
+
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Estonia_road_sign_541a.svg"
+  caption="4 windows" class="img-sm"
+>}}
+
+<--->
+
+#### Lithuania
+
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/c/c4/RU_road_sign_5.16.svg"
+  caption="4 windows" class="img-sm"
+>}}
+
+<--->
+
+{{% /columns %}}
+
+{{% columns %}}
+
+#### Hungary
+
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/5/51/Hungary_road_sign_E-039.svg"
+  caption="" class="img-sm"
+>}}
+
+<--->
+
+#### Romania
+
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/8/8c/RO_road_sign_G14.svg"
+  caption="" class="img-sm"
+>}}
+
+<--->
+
+#### Poland
+
+{{<figure
+  src="https://upload.wikimedia.org/wikipedia/commons/f/f3/PL_road_sign_D-15.svg"
+  caption="" class="img-sm"
+>}}
+
+<--->
+
+{{% /columns %}}
