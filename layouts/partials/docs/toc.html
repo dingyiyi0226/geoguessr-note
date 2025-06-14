@@ -1,0 +1,5 @@
+{{ partial "docs/inject/toc-before" . }}
+{{- $toc := .TableOfContents -}}
+{{- $toc = replaceRE "(?s)<a href=\"https?://[^\"]*\">(.*?)</a>" "$1" $toc -}}
+{{ $toc | safeHTML }}
+{{ partial "docs/inject/toc-after" . }}
