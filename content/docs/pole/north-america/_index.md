@@ -8,7 +8,7 @@
 The US part is not finished yet. The US has tons of similar pole tops
 {{% /hint %}}
 
-## Trident Pole Top
+## Trident pole top
 
 {{% columns %}}
 
@@ -30,11 +30,11 @@ The US part is not finished yet. The US has tons of similar pole tops
 
 {{% /columns %}}
 
-## Saskatchewan Alternating
+## Saskatchewan alternating
 
 {{<figure src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/c7faa943-c6b0-4316-9ff2-a1eb2a02a907/Infrastructure_-_SK_Alternating_Pole_Tops.png" caption="" class="img-lg" >}}
 
-## Alberta <
+## Alberta
 
 {{<figure src="poletop-alberta.png" caption="" class="img-md" >}}
 
@@ -50,17 +50,17 @@ BC, Gaspé peninsula (Quebec)
 
 {{<figure src="poletop-l-shaped.png" caption="" class="img-md" >}}
 
-## Double Insulator
+## Double insulator
 
 More common in **New Brunswick**
 
 {{<figure src="poletop-double-insulator.png" caption="" class="img-md" >}}
 
-## Side Wire: Manitoba
+## Side wire: Manitoba
 
 {{<figure src="side-wire.png" caption="" class="img-md" >}}
 
-## Crossbeam Position
+## Crossbeam position
 
 {{% columns %}}
 

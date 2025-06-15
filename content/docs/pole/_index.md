@@ -5,13 +5,13 @@ bookCollapseSection: true
 
 # Pole
 
-## French Ladder Pole
+## French ladder pole
 France, Spain, Senegal
 
 <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/5520b887-6b93-4fe1-8c90-850b965bc81b/Ladder+poles.png" style="width: 60%;" />
 
 
-## Ladder Pole with tall step
+## Ladder pole with tall step
 
 {{% columns %}}
 
@@ -33,7 +33,7 @@ France, Spain, Senegal
 
 {{% /columns%}}
 
-## Holey Pole
+## Holey pole
 
 {{% columns %}}
 
