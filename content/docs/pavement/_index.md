@@ -24,7 +24,7 @@ weight: 94
 
 ## South America
 
-### Turtle Shape
+### Turtle shape
 
 {{% figure src="turtle-ec.png" caption="Ecuador" class="img-md" %}}
 

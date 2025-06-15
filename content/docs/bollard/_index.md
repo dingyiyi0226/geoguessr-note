@@ -5,7 +5,7 @@ bookCollapseSection: true
 
 # Bollard
 
-## French Style
+## French style
 
 {{% columns %}}
 
@@ -29,7 +29,7 @@ bookCollapseSection: true
 
 {{% /columns %}}
 
-## Czech, Slovakia: Double Reflectors
+## Czech, Slovakia: double reflectors
 
 {{% columns %}}
 
@@ -46,7 +46,7 @@ bookCollapseSection: true
 {{% /columns %}}
 
 
-## Wedge, Yellow and White
+## Wedge, yellow and white
 
 {{% columns %}}
 
@@ -65,13 +65,13 @@ bookCollapseSection: true
 
 {{% /columns %}}
 
-## Rounded top, Cylindrical, Black and White
+## Rounded top, cylindrical, black and white
 
 Switzerland, Liechtenstein
 
 <img src="bollard-li.png" class="img-md" />
 
-## Spanish Style: Orange and White
+## Spanish style: orange and white
 
 {{% columns %}}
 
@@ -86,7 +86,7 @@ Switzerland, Liechtenstein
 
 {{% /columns %}}
 
-## Wedge, Retangular Reflector
+## Wedge, retangular reflector
 
 {{% columns %}}
 
@@ -106,7 +106,7 @@ Switzerland, Liechtenstein
 
 <img src="bollard-be-2.png" class="img-md" />
 
-## South East Asia Style
+## South East Asia style
 
 {{% columns %}}
 

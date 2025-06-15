@@ -4,11 +4,11 @@
 
 <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/fdd3082a-e8c6-45f6-bbee-45f172b6920a/baltics_kmmarkerinfographic.png" />
 
-## Hungary: Green marker
+## Hungary: green marker
 
 <img src="kilo-hu.png" class="img-md">
 
-## Way Stone
+## Way stone
 
 {{% columns %}}
 
@@ -51,7 +51,7 @@
 
 {{% /columns %}}
 
-## South East Asian Stone
+## South East Asian stone
 
 {{% columns %}}
 
@@ -78,7 +78,7 @@ The 0 km location for the Phillipines can see this image by bullfrogggy
 
 {{% /hint %}}
 
-## South American Stone
+## South American stone
 
 {{% columns %}}
 
@@ -100,7 +100,7 @@ The 0 km location for the Phillipines can see this image by bullfrogggy
 
 {{% /columns %}}
 
-## Black White Flag
+## Black white flag
 
 {{% columns %}}
 
@@ -122,7 +122,7 @@ The 0 km location for the Phillipines can see this image by bullfrogggy
 
 {{<figure src="kilo-id-2.png" caption="" class="img-md" >}}
 
-## American Style: Green Vertical
+## American style: green vertical
 
 {{% columns %}}
 

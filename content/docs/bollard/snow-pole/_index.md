@@ -4,7 +4,7 @@ weight: 60
 
 # Snow pole
 
-## Orange, Single reflector
+## Orange, single reflector
 
 {{% columns %}}
 
@@ -26,7 +26,7 @@ weight: 60
 
 {{% /columns %}}
 
-## Orange, Double reflector
+## Orange, double reflector
 
 {{% columns %}}
 

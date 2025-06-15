@@ -5,7 +5,7 @@ bookCollapseSection: true
 
 # Sign
 
-## Hunting Sign
+## Hunting sign
 
 {{% columns %}}
 
@@ -33,7 +33,7 @@ Germany, Luxembourg, Italy, Albania, Romania
 
 <img src="sign-back-nl.png" width="200px">
 
-## Passing Place
+## Passing place
 
 {{% columns %}}
 
@@ -55,7 +55,7 @@ Germany, Luxembourg, Italy, Albania, Romania
 
 {{<figure src="passing-scotland.png" caption="" class="img-md" >}}
 
-## Property Marker
+## Property marker
 
 {{% columns %}}
 

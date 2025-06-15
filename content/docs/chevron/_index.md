@@ -8,41 +8,41 @@ weight: 60
 
 <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/a1b713f8-44c7-4d20-a74e-0a27a653e68a/eu_chevrons.png" class="img-lg" /> 
 
-### White on Blue
+### White on blue
 
 Spain, France, Andorra (Spain only has 2 and 4 arrows)
 
 <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/9097238f-86c1-46fc-ab40-87bfe8683587/Chevrons.png" class="img-lg" /> 
 
-### Yellow on Blue
+### Yellow on blue
 
 Sweden, <span class="text-rare">Luxembourg</span>
 
 <img src="chevron-se.png" class="img-md" />
 
-### Black on White
+### Black on white
 
 Serbia, Montenegro, North Macedonia, Slovenia
 
 <img src="chevron-rs.png" class="img-md" />
 
-### White on Black
+### White on black
 
 Spain, Italy, Albania, Greece, Switzerland, United Kingdom, Malta
 
-### Red on Yellow
+### Red on yellow
 
 Austria, Croatia, Montenegro, San Marino
 
-### White on Red
+### White on red
 
 Russia, Ukraine, Estonia, Austria, Hungary
 
-### Yellow on Black
+### Yellow on black
 
 Norway, Finland, Ireland, Portugal, Iceland, Luxembourg, Turkey (max W/E)
 
-### Black on Yellow
+### Black on yellow
 
 Gibraltar, Turkey (Ismir)
 
@@ -50,19 +50,19 @@ Gibraltar, Turkey (Ismir)
 
 ## Outside Europe
 
-### Red on White
+### Red on white
 
 The Phillipines, Sri Lanka, South Africa, Argentina
 
-### White on Red
+### White on red
 
 Quebec (Canada)
 
-### White on Black
+### White on black
 
 Australia, Bangladesh
 
-### Yellow on Black
+### Yellow on black
 
 Brazil, Cambodia
 

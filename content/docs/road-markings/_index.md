@@ -15,7 +15,7 @@ Road lines are not reliable in urban areas.
 There are many exceptions and we only list the predominant patterns, so be aware of other clues.
 {{% /hint %}}
 
-## Outer Yellow
+## Outer yellow
 
 South Africa, Botswana, Lesotho, Eswatini, Israel, Jordan, UAE, Oman
 
@@ -39,7 +39,7 @@ South Africa, Botswana, Lesotho, Eswatini, Israel, Jordan, UAE, Oman
 
 {{% /columns %}}
 
-## America: Mostly outer white center yellow
+## America: mostly outer white center yellow
 
 {{% columns %}}
 
@@ -63,7 +63,7 @@ White dashes between yellow center line
 
 <img src="line-sask.png" class="img-lg" />
 
-### Middle Yellow Lines in North America
+### Middle yellow lines in North America
 
 - **USA**: Always double yellow
 - **Nova Scotia**: Always double yellow

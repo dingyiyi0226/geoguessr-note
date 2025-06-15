@@ -4,7 +4,7 @@ weight: 70
 
 # Guardrail
 
-## Europe Summary
+## Europe summary
 
 - **B type**: Denmark, Germany, Poland, Croatia, Serbia, Montenegro, Ireland, Turkey
 - **B type no reflector**: Denmark, Germany
@@ -15,7 +15,7 @@ weight: 70
 
 <img src="https://images.squarespace-cdn.com/content/v1/60f6054f4e76b03092956de8/930bd2e7-57fa-4807-8e8a-733ba5a702a8/europeguardrail.png" style="width: 100%;" />
 
-## Norway: Wooden posts
+## Norway: wooden posts
 
 {{<figure src="guardrail-no.png" caption="" class="img-md" >}}
 
@@ -45,6 +45,6 @@ weight: 70
 
 {{<figure src="guardrail-on.png" caption="wooden with 3 wires" class="img-md" >}}
 
-### Quebec: Coexist with bollards
+### Quebec: coexist with bollards
 
-### British Columbia: No guardrail
+### British Columbia: no guardrail

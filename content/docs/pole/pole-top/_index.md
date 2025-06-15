@@ -4,7 +4,7 @@ weight: 10
 
 # Pole top
 
-## American Style
+## American style
 
 US, Canada, Phillipines,
 
@@ -28,7 +28,7 @@ US, Canada, Phillipines,
 
 {{% /columns %}}
 
-## Romanian Style
+## Romanian style
 
 Romania, Czechia, Slovakia, Albania, Serbia
 
@@ -38,7 +38,7 @@ Romania, Czechia, Slovakia, Albania, Serbia
 
 <img src="pole-top-bg.png" class="img-md" />
 
-## Three Horizontal Bar
+## Three horizontal bar
 
 {{% columns %}}
 

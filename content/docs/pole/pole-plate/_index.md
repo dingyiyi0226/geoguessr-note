@@ -5,7 +5,7 @@ title: Pole plate/paint
 
 # Pole plate and pole paint
 
-## Blue Stickers
+## Blue stickers
 
 {{% columns %}}
 
@@ -41,7 +41,7 @@ title: Pole plate/paint
 
 {{% /columns %}}
 
-## Yellow Black Stripe
+## Yellow black stripe
 
 {{% columns %}}
 
@@ -63,7 +63,7 @@ title: Pole plate/paint
 
 {{% /columns %}}
 
-## Yellow Stripe
+## Yellow stripe
 
 {{% columns %}}
 

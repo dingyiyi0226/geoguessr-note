@@ -6,7 +6,7 @@ weight: 10
 
 ## Pedestrian
 
-### Unique Countries
+### Unique countries
 
 {{% columns %}}
 
@@ -109,11 +109,11 @@ weight: 10
 - Bulgaria: 4 stripes
 - Others 🇸🇮🇭🇷🇲🇪🇷🇸🇲🇰: 5 stripes
 
-### With Belt
+### With belt
 
 Germany, Luxembourg, Hungary, Croatia, Montenegro, North Macedonia, Portugal, <span class="text-rare">Slovakia</span>
 
-### Yellow Background
+### Yellow background
 
 Finland, Sweden, Iceland, Poland, North Macedonia, Greece
 
@@ -172,7 +172,7 @@ Finland, Sweden, Iceland, Poland, North Macedonia, Greece
 
 {{% /columns %}}
 
-### Yellow Background
+### Yellow background
 
 Finland, Sweden, Iceland,  Poland, North Macedonia, Greece, Croatia, Slovenia
 

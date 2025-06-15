@@ -4,7 +4,7 @@ weight: 400
 
 # Car meta
 
-## Europe Gen 4
+## Europe gen 4
 
 [Full Doc]( https://docs.google.com/document/d/17X21eUdU_AhbiyDsEHLQCthJKjh9VuocNf7GhCvNATA/edit?usp=sharing) by Elori
 
@@ -28,7 +28,7 @@ weight: 400
 - Blue car, With antenna, Mediterranean: **Italy, Croatia**. not Portugal, Spain, Greece, Turkey
 
 
-## Europe Gen 3
+## Europe gen 3
 - With antenna: never **North Macedonia**, **Turkey**
 - Winter: **Czechia, Hungary, Bulgaria**
 - Side mirror with yellow sticker: **Croatia**
@@ -44,7 +44,7 @@ weight: 400
     | 2018 |     |     |     |  v  |     |     |  v  |     |
     {.table-tight .header-first}
 
-## Europe Gen 3 antenna with tape
+## Europe gen 3 antenna with tape
 
 {{% columns %}}
 
