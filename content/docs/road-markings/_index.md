@@ -3,7 +3,7 @@ weight: 90
 bookCollapseSection: true
 ---
 
-# Road Markings
+# Road markings
 
 {{% hint info %}}
 **Note**  

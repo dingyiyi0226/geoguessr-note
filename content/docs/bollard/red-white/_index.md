@@ -1,9 +1,9 @@
 ---
-title: "Red and White"
+title: "Red and white"
 weight: 42
 ---
 
-# Red and White Bollard
+# Red and white bollard
 
 {{% columns %}}
 

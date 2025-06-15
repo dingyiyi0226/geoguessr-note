@@ -2,7 +2,7 @@
 weight: 10
 ---
 
-# German Style
+# German style
 
 Wedge shape, with white or orange reflector
 

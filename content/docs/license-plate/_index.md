@@ -2,7 +2,7 @@
 weight: 150
 ---
 
-# License Plate
+# License plate
 
 ## Europe
 
