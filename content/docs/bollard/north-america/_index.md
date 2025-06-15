@@ -2,7 +2,7 @@
 weight: 50
 ---
 
-# North American Bollards
+# North American bollards
 
 [States of the US](https://docs.google.com/document/d/14A6H1kXOuWGYRSjUWiVqKz4jDMZReedCJr5fUtv-pJs/edit?tab=t.0#heading=h.83nr7vj8gug5) by Jayless
 

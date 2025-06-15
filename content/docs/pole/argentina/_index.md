@@ -1,4 +1,4 @@
-# Argentina Poles
+# Argentina poles
 
 [Complete Guide to Argentina Poletops](https://docs.google.com/document/d/1MulHd-AXrfJUVoZzSDVm5FcWMGnBBlgHN30KO47avDw/edit?tab=t.0) by Kyleb.b
 

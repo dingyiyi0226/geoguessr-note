@@ -2,7 +2,7 @@
 weight: 10
 ---
 
-# Pole Top
+# Pole top
 
 ## American Style
 

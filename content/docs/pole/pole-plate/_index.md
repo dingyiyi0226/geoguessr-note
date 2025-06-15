@@ -3,7 +3,7 @@ weight: 20
 title: Pole plate/paint
 ---
 
-# Pole Plate and Pole Paint
+# Pole plate and pole paint
 
 ## Blue Stickers
 

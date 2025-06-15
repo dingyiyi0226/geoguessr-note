@@ -1,4 +1,4 @@
-# Europe: Mostly all white
+# Europe: mostly all white
 
 ## Long outer dashes
 Norway, France

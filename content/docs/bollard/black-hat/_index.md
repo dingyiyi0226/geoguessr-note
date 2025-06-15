@@ -2,7 +2,7 @@
 weight: 30
 ---
 
-# Black Hat
+# Black hat
 
 Wedge, front red and back white, strip on both side, with black hat
 

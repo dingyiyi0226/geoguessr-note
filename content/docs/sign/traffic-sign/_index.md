@@ -2,7 +2,7 @@
 weight: 10
 ---
 
-# Traffic Sign
+# Traffic sign
 
 ## Pedestrian
 

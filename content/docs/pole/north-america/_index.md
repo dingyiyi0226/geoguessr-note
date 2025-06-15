@@ -1,4 +1,4 @@
-# North America Poles
+# North America poles
 
 [Comprehensive Canada](https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit?tab=t.0) by Davis Savage  
 [State of the US](https://docs.google.com/document/d/14A6H1kXOuWGYRSjUWiVqKz4jDMZReedCJr5fUtv-pJs/edit?tab=t.0) by Jayless
