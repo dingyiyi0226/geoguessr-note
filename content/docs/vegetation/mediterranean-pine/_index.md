@@ -12,7 +12,7 @@ These Mediterranean pines belong to the [Pinus subsection Pinaster](https://en.w
 
 {{<figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pinus_halepensis_range.png/1024px-Pinus_halepensis_range.png" caption="" >}}
 
-## Turkish Pine - [Pinus brutia](https://en.wikipedia.org/wiki/Pinus_brutia)
+## Turkish pine - [Pinus brutia](https://en.wikipedia.org/wiki/Pinus_brutia)
 
 - really similar to Aleppo pine
 - cones persist longer on branches.

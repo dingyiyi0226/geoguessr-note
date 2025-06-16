@@ -5,7 +5,7 @@ bookCollapseSection: true
 
 # Vegetation
 
-## Baltic Pine - [Pinus sylvestris](https://en.wikipedia.org/wiki/Pinus_sylvestris)
+## Baltic pine - [Pinus sylvestris](https://en.wikipedia.org/wiki/Pinus_sylvestris)
 
 - Orange-red Bark
 - Sparse lower branches; crown concentrated at the top
@@ -28,7 +28,7 @@ bookCollapseSection: true
 
 {{<figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pinus_sylvestris_range-01.png/1280px-Pinus_sylvestris_range-01.png" caption="" >}}
 
-## Norway Spruce - [Picea abies](https://en.wikipedia.org/wiki/Picea_abies)
+## Norway spruce - [Picea abies](https://en.wikipedia.org/wiki/Picea_abies)
 
 - Drooping side branches; overall a conical or pyramidal shape with a narrow crown.
 
@@ -50,7 +50,7 @@ bookCollapseSection: true
 
 {{<figure src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Norway_Spruce_Picea_abies_distribution_map_2.png" caption="" class="img-lg">}}
 
-## European Larch - [Larix decidua](https://en.wikipedia.org/wiki/Larix_decidua)
+## European larch - [Larix decidua](https://en.wikipedia.org/wiki/Larix_decidua)
 
 - Bright green foliage in summer — will turn golden yellow in autumn (deciduous conifer)
 - Fissured bark
