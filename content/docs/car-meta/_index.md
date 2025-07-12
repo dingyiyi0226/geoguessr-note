@@ -26,6 +26,9 @@ weight: 400
 - Turkey: White car, No car
 - Eletric car: **Frankfurt, Hamburg, London, Ireland**
 - Blue car, With antenna, Mediterranean: **Italy, Croatia**. not Portugal, Spain, Greece, Turkey
+- Blue car, 2023, w/ or w/o antenna: Not Slovakia
+- Blue car, With antenna: 2022 -> Croatia, 2023 -> Slovenia
+- Blue car, With antenna, 2023: Not Estonia, Lativia
 
 
 ## Europe gen 3
