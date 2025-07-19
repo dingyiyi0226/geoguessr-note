@@ -1,5 +1,6 @@
 ---
 weight: 400
+bookCollapseSection: true
 ---
 
 # Car meta
