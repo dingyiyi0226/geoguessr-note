@@ -64,7 +64,8 @@ Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central 
 - In Nordic countries:
   - **Å**: All
   - **ø, æ**: Norway, Denmark, Faroe
-  - **ö, ä**: Sweden, Finland, Iceland
+  - **ö, ä**: Sweden, Finland
+  - **ö, æ**: Iceland
 
 ### Table of characters
 
