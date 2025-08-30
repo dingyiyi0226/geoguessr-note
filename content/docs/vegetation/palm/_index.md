@@ -59,3 +59,9 @@ Trunk fully hidden by dry dead leaf bases (coat)
 {{<figure src="caranday-palm.png" caption="" class="img-lg"
     link="https://www.google.com/maps/@-30.7804346,-64.506569,3a,70.3y,1.21h,90.85t/data=!3m7!1e1!3m5!1so0n_aWd5ZeHc1vIMoWQmCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.8463382169828861%26panoid%3Do0n_aWd5ZeHc1vIMoWQmCA%26yaw%3D1.2078481890836201!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D" target="_blank">}}
 
+## Yatay palm - [Butia yatay](https://en.wikipedia.org/wiki/Butia_yatay)
+
+Distribution: around Paraguay region
+
+{{<figure src="yatay-palm.png" caption="" class="img-lg"
+    link="https://www.google.com/maps/@-22.40154,-54.792362,3a,60.0y,36.46h,87.49t/data=!3m5!1e1!3m3!1sqfoncaZ1qH2XZWUgNQsjxA!2e0!6shttps%3A%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fw%3D900%26h%3D600%26panoid%3DqfoncaZ1qH2XZWUgNQsjxA%26cb_client%3Dmaps_sv.share%26yaw%3D36.455947179391984%26pitch%3D2.512606743961328%26thumbfov%3D60?coh=235716&entry=tts" target="_blank">}}
