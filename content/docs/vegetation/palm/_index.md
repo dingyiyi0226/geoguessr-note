@@ -101,3 +101,47 @@ Even GPT gives different answers depending on the angle of the same tree.
 
 {{% /columns %}}
 
+## [Sabal yapa](https://en.wikipedia.org/wiki/Sabal_yapa)
+
+Weeping, lax crown of narrow, deeply split, drooping segments.
+
+{{% columns %}}
+
+- #### Yucatán, Mexico
+  {{<figure src="sabal-yapa.png" caption="" class="img-lg" loading="lazy"
+    link="https://www.google.com/maps/@20.854063,-90.262837,3a,41.1y,288.34h,87.75t/data=!3m5!1e1!3m3!1scvEyUv8IpKu2wgflswVjWw!2e0!6shttps%3A%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fw%3D900%26h%3D600%26panoid%3DcvEyUv8IpKu2wgflswVjWw%26cb_client%3Dmaps_sv.share%26yaw%3D288.3388490718841%26pitch%3D2.2502798450377384%26thumbfov%3D41?coh=235716&entry=tts" target="_blank">}}
+- #### Distribution: Yucatán peninsula
+  {{<figure src="sabal-yapa-dist.png" caption="" class="img-lg" loading="lazy"
+   link="https://www.inaturalist.org/observations?subview=map&taxon_id=281548" target="_blank">}}
+
+{{% /columns %}}
+
+## [Sabal rosei](https://en.wikipedia.org/wiki/Sabal_rosei)
+
+Compared to Sabal mexicana: Usually slimmer. Crown a bit looser; you can “see through” gaps between petioles more easily.
+
+{{% columns %}}
+
+- #### Nayarit, Mexico
+  {{<figure src="sabal-rosei.png" caption="" class="img-lg" loading="lazy"
+    link="https://www.google.com/maps/@22.349316,-105.306321,3a,89.5y,186.55h,93.29t/data=!3m5!1e1!3m3!1s9jx0iQRPsQ0Mzoxp0mfeVg!2e0!6shttps%3A%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fw%3D900%26h%3D600%26panoid%3D9jx0iQRPsQ0Mzoxp0mfeVg%26cb_client%3Dmaps_sv.share%26yaw%3D186.54594515583676%26pitch%3D-3.2908128166960893%26thumbfov%3D90?coh=235716&entry=tts" target="_blank">}}
+- #### Distribution: west coast of Mexico
+  {{<figure src="sabal-rosei-dist.png" caption="" class="img-lg" loading="lazy"
+   link="https://www.inaturalist.org/observations?subview=map&taxon_id=283923" target="_blank">}}
+
+{{% /columns %}}
+
+## [Sabal mexicana](https://en.wikipedia.org/wiki/Sabal_mexicana)
+
+Compared to Sabal rosei: Very stout. Crown full, nearly spherical; leaves numerous and densely inserted.
+
+{{% columns %}}
+
+- #### Veracruz, Mexico
+  {{<figure src="sabal-mexicana.png" caption="" class="img-lg" loading="lazy"
+    link="https://www.google.com/maps/@21.759244,-98.185907,3a,103.9y,46.82h,95.67t/data=!3m5!1e1!3m3!1swfU7WPE3SrAyuMZ-6Pb4gQ!2e0!6shttps%3A%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fw%3D900%26h%3D600%26panoid%3DwfU7WPE3SrAyuMZ-6Pb4gQ%26cb_client%3Dmaps_sv.share%26yaw%3D46.823697186401496%26pitch%3D-5.66815147211004%26thumbfov%3D104?coh=235716&entry=tts" target="_blank">}}
+- #### Distribution: eastern Mexico
+  {{<figure src="sabal-mexicana-dist.png" caption="" class="img-lg" loading="lazy"
+   link="https://www.inaturalist.org/observations?subview=map&taxon_id=168257" target="_blank">}}
+
+{{% /columns %}}
