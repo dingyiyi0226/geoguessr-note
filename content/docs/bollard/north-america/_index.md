@@ -12,19 +12,19 @@ weight: 50
 
 #### Alberta
 
-{{<figure src="bollard-ab.png" caption="" class="img-md">}}
+{{<figure src="bollard-ab.png" caption="" class="img-md" loading="lazy">}}
 
 <--->
 
 #### Manitoba
 
-{{<figure src="bollard-mani.png" caption="sometimes no orange" class="img-md">}}
+{{<figure src="bollard-mani.png" caption="sometimes no orange" class="img-md" loading="lazy">}}
 
 <--->
 
 #### NW Territories
 
-{{<figure src="bollard-nt.png" caption="shorter white" class="img-md">}}
+{{<figure src="bollard-nt.png" caption="shorter white" class="img-md" loading="lazy">}}
 
 {{% /columns %}}
 
@@ -34,19 +34,19 @@ weight: 50
 
 #### Quebec
  
-{{<figure src="bollard-quebec.png" caption="red or green reflector" class="img-md">}}
+{{<figure src="bollard-quebec.png" caption="red or green reflector" class="img-md" loading="lazy">}}
 
 <--->
 
 #### British Columbia
  
-{{<figure src="bollard-bc.png" caption="" class="img-md">}}
+{{<figure src="bollard-bc.png" caption="" class="img-md" loading="lazy">}}
 
 <--->
 
 #### Wisconsin
 
-{{<figure src="bollard-wi.png" caption="" class="img-md">}}
+{{<figure src="bollard-wi.png" caption="" class="img-md" loading="lazy">}}
 
 {{% /columns %}}
 
@@ -56,24 +56,24 @@ weight: 50
 
 #### MT, WY, ND, SD
 
-{{<figure src="bollard-diamond.png" caption="diamond" class="img-md">}}
+{{<figure src="bollard-diamond.png" caption="diamond" class="img-md" loading="lazy">}}
 
 <--->
 
 #### Wyoming
 
-{{<figure src="bollard-wy.png" caption="round with paint" class="img-md">}}
+{{<figure src="bollard-wy.png" caption="round with paint" class="img-md" loading="lazy">}}
 
 <--->
 
 #### Nevada
 
-{{<figure src="bollard-nv.png" caption="" class="img-md">}}
+{{<figure src="bollard-nv.png" caption="" class="img-md" loading="lazy">}}
 
 {{% /columns %}}
 
 ## Washington
 
-{{<figure src="bollard-wa.png" caption="one or two reflector" class="img-md">}}
+{{<figure src="bollard-wa.png" caption="one or two reflector" class="img-md" loading="lazy">}}
 
 

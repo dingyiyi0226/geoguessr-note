@@ -12,11 +12,11 @@ Germany, Luxembourg, Switzerland, Portugal, Sweden
 
 {{% columns %}}
 
-<img src="bollard-de.png" class="img-md" />
+<img src="bollard-de.png" class="img-md" loading="lazy" />
 
 <--->
 
-<img src="bollard-se.png" class="img-md" />
+<img src="bollard-se.png" class="img-md" loading="lazy" />
 
 <--->
 
@@ -24,4 +24,4 @@ Germany, Luxembourg, Switzerland, Portugal, Sweden
 
 ## Three bolts: Luxembourg
 
-<img src="bollard-lu.png" class="img-sm" />
+<img src="bollard-lu.png" class="img-sm" loading="lazy" />

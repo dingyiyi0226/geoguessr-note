@@ -16,25 +16,25 @@ Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 
 #### Hungary
 
-<img src="bollard-hu.png" class="img-sm" />
+<img src="bollard-hu.png" class="img-sm" loading="lazy" />
 
 <--->
 
 #### Croatia
 
-<img src="bollard-hr.png" class="img-sm" />
+<img src="bollard-hr.png" class="img-sm" loading="lazy" />
 
 <--->
 
 #### Russia
 
-<img src="bollard-ru.png" class="img-sm" />
+<img src="bollard-ru.png" class="img-sm" loading="lazy" />
 
 <--->
 
 #### Ukraine
 
-<img src="bollard-ua.png" class="img-sm" />
+<img src="bollard-ua.png" class="img-sm" loading="lazy" />
 
 {{% /columns %}}
 
@@ -44,39 +44,39 @@ Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 
 #### Greece
 
-{{<figure src="bollard-gr.png" caption="almost square" class="img-sm" >}}
+{{<figure src="bollard-gr.png" caption="almost square" class="img-sm" loading="lazy" >}}
 
 <--->
 
 #### Serbia
 
-{{<figure src="bollard-rs.png" caption="off-centered" class="img-sm" >}}
+{{<figure src="bollard-rs.png" caption="off-centered" class="img-sm" loading="lazy" >}}
 
 <--->
 
 #### Lithuania
 
-{{<figure src="bollard-lt.png" caption="orange reflector" class="img-sm" >}}
+{{<figure src="bollard-lt.png" caption="orange reflector" class="img-sm" loading="lazy" >}}
 
 <--->
 
 #### Hungary
 
-{{<figure src="bollard-blue-hu.png" caption="blue reflector" class="img-sm" >}}
+{{<figure src="bollard-blue-hu.png" caption="blue reflector" class="img-sm" loading="lazy" >}}
 
 {{% /columns %}}
 
 
 ## Black top: Italy, Albania
 
-<img src="bollard-it.png" class="img-sm" />
+<img src="bollard-it.png" class="img-sm" loading="lazy" />
 
 ## Eastern Russia
 
 East of Omsk
 
-<img src="bollard-e-ru.png" class="img-sm" />
+<img src="bollard-e-ru.png" class="img-sm" loading="lazy" />
 
 ## North Macedonia
 
-<img src="bollard-mk.png" class="img-sm" />
+<img src="bollard-mk.png" class="img-sm" loading="lazy" />
