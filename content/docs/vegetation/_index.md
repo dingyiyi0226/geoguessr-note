@@ -5,6 +5,9 @@ bookCollapseSection: true
 
 # Vegetation
 
+[iNaturalist](https://www.inaturalist.org/observations): The website for searching the distibution
+
+
 ## Baltic pine - [Pinus sylvestris](https://en.wikipedia.org/wiki/Pinus_sylvestris)
 
 - Orange-red Bark
