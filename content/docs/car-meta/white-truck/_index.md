@@ -87,7 +87,7 @@ Kazakhstan
 
 {{<figure src="frame.png" caption="" class="" loading="lazy" >}}
 
-- **Without frame**: Senegal, Namibia, Ecuador, Rwanda
+- **Without frame**: Senegal, Namibia, Ecuador, Rwanda, Costa Rica
 - **With/without frame**: Kazakhstan
 - **With frame**: Oman, UAE, Kenya, Panama
 
