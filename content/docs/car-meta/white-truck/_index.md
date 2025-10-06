@@ -14,7 +14,7 @@
 | Senegal    |    ❌    |   ⭕️   |  ⭕️  |  ❌   |   ❌   |  ⚪   |  ❌   |
 | Panama     |    ❌    |   ⭕️   |  ⭕️  |  ❌   |   ⭕️   |  ⚪   |  ❌   |
 | Costa Rica |    ❌    |   ⭕️   |  ⭕️  |  ❌   |   ❌   |  ⚪   |  ❌   |
-| Kenya      |    ❌    |   ⭕️   |  ❌  |  ❌   |   ⭕️   |  ⚪   |  ❌   |
+| Kenya      |    ❌    |   ⭕️   |  ⭕️  |  ❌   |   ⭕️   |  ⚪   |  ❌   |
 | Namibia    |    ❌    |   ⭕️   |  ❌  |  ❌   |   ❌   |  ⚫   |  ❌   |
 | Ecuador    |    ⭕️    |   ❌   |  ❌  |  ❌   |   ❌   |  ⚫   |  ⭕️   |
 | Rwanda     |    ⭕️    |   ❌   |  ❌  |  ❌   |   ❌   |  ⚪   |  ⭕️   |
@@ -61,7 +61,7 @@ Senegal, Kazakhstan, Oman, UAE, Namibia, Kenya, Panama, Costa Rica
 
 {{<figure src="ant-down.png" caption="" class="" loading="lazy" >}}
 
-Senegal, Kazakhstan, Oman, UAE, Panama, Costa Rica
+Senegal, Kazakhstan, Oman, UAE, Panama, Costa Rica, Kenya
 
 ### Variants
 
