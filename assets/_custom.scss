@@ -56,3 +56,23 @@
     margin-top: -$padding-16;
   }
 }
+#theme-toggle {
+  background: none;
+  border: 0;
+  padding: 0;
+  margin-inline-start: $padding-8;
+  cursor: pointer;
+}
+
+#theme-toggle img.book-icon {
+  height: 1.5em;
+  width: 1.5em;
+}
+
+html[data-theme='dark'] {
+  @include theme-dark;
+}
+
+html[data-theme='light'] {
+  @include theme-light;
+}
