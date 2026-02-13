@@ -4,10 +4,9 @@ weight: 95
 
 # Architecture
 
-{{% hint info %}}
-**Note**  
-The architectural style is not strictly specific and may extend to nearby regions
-{{% /hint %}}
+> [!NOTE]
+> **Note**  
+> The architectural style is not strictly specific and may extend to nearby regions
 
 ## Europe
 

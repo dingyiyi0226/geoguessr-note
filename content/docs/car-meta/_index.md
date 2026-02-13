@@ -89,10 +89,9 @@ bookCollapseSection: true
 
 {{% /columns %}}
 
-{{% hint warning %}}
-**Warning**  
-This is the experimental meta
-{{% /hint %}}
+> [!WARNING]
+> **Warning**  
+> This is the experimental meta
 
 ## Stubby antenna
 
@@ -102,10 +101,9 @@ This is the experimental meta
 
 {{<figure src="car-three-ridge.png" caption="New Zealand, Hawaii, Cambodia, United State" class="img-lg" >}}
 
-{{% hint warning %}}
-**Warning**  
-This is the experimental meta
-{{% /hint %}}
+> [!WARNING]
+> **Warning**  
+> This is the experimental meta
 
 ## Thin stubby antenna
 

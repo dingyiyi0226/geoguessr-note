@@ -84,11 +84,10 @@ Trunk fully hidden by dry dead leaf bases (coat)
 
 ## Yatay palm - [Butia yatay](https://en.wikipedia.org/wiki/Butia_yatay)
 
-{{% hint warning %}}
-**Warning**  
-Not really sure how to distinguish between Yatay palm, Macaw palm, and other similar species.  
-Even GPT gives different answers depending on the angle of the same tree.
-{{% /hint %}}
+> [!WARNING]
+> **Warning**  
+> Not really sure how to distinguish between Yatay palm, Macaw palm, and other similar species.
+> Even GPT gives different answers depending on the angle of the same tree.
 
 {{% columns %}}
 

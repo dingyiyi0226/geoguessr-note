@@ -48,10 +48,9 @@ UK could have reflector between dashes
 ## White double center lines:
 Poland, Denmark, Greece
 
-{{% hint warning %}}
-**Note**  
-Not so useful, double white line could be anywhere else
-{{% /hint %}}
+> [!WARNING]
+> **Note**  
+> Not so useful, double white line could be anywhere else
 
 ## Yellow giveaway: Jersey Island
 

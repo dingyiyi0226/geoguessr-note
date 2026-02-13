@@ -4,18 +4,17 @@ weight: 30
 
 # Language
 
-{{% hint info %}}
-**Dutch**  
-Netherland, Belgium  
-**French**  
-France, Belgium, Switzerland  
-**German**  
-Germany, Belgium, Luxembourg, Austria, Switzerland  
-**Slavic**  
-Poland, Czechia, Slovakia, Yugoslavia (Slovenia, Croatia, Bosnia, Montenegro, Serbia, North Macedonia)  
-**Cyrillic script**  
-Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central Asia
-{{% /hint %}}
+> [!NOTE]
+> **Dutch**  
+> Netherland, Belgium
+> **French**  
+> France, Belgium, Switzerland
+> **German**  
+> Germany, Belgium, Luxembourg, Austria, Switzerland
+> **Slavic**  
+> Poland, Czechia, Slovakia, Yugoslavia (Slovenia, Croatia, Bosnia, Montenegro, Serbia, North Macedonia)
+> **Cyrillic script**  
+> Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central Asia
 
 
 ## Word
@@ -98,10 +97,9 @@ Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central 
 | Malta     | **ċ ġ ż ħ**       |                 |                 |
 {.table-tight .header-first}
 
-{{% hint warning %}}
-**Note**  
-**ş ș**, **ă ā** are identical in some fonts. Be careful when reading ad billboard
-{{% /hint %}}
+> [!WARNING]
+> **Note**  
+> **ş ș**, **ă ā** are identical in some fonts. Be careful when reading ad billboard
 
 ## Romance languages
 
@@ -160,10 +158,9 @@ An isolated language
 
 ## Cyrillic
 
-{{% hint info %}}
-**Note**  
-The only useful part is to distinguish between Ukraine and Russia
-{{% /hint %}}
+> [!NOTE]
+> **Note**  
+> The only useful part is to distinguish between Ukraine and Russia
 
 - [Federal subjects of russia](https://en.wikipedia.org/wiki/Federal_subjects_of_Russia)
 - **Russian**: а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я

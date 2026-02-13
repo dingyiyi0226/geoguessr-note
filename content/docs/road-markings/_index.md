@@ -5,15 +5,13 @@ bookCollapseSection: true
 
 # Road markings
 
-{{% hint info %}}
-**Note**  
-Road lines are not reliable in urban areas.
-{{% /hint %}}
+> [!NOTE]
+> **Note**  
+> Road lines are not reliable in urban areas.
 
-{{% hint info %}}
-**Note**  
-There are many exceptions and we only list the predominant patterns, so be aware of other clues.
-{{% /hint %}}
+> [!NOTE]
+> **Note**  
+> There are many exceptions and we only list the predominant patterns, so be aware of other clues.
 
 ## Outer yellow
 

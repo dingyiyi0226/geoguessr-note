@@ -20,10 +20,9 @@
 | Rwanda     |    ⭕️    |   ❌   |  ❌  |  ❌   |   ❌   |  ⚪   |  ⭕️   |
 {.table-tight}
 
-{{% hint info %}}
-**Info**  
-Each type of car could be in full blur
-{{% /hint %}}
+> [!NOTE]
+> **Info**  
+> Each type of car could be in full blur
 
 ## No Antenna
 
