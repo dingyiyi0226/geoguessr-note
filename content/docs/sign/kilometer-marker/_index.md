@@ -69,12 +69,9 @@
 
 {{% /columns %}}
 
-> [!NOTE]
-> **Note**  
-> The 0 km location for the Phillipines can see this image by bullfrogggy
-> {{% details "Expand" %}}
-> {{<figure src="https://i.gyazo.com/e0106566daaf2df093b01c2be8c56138.png" caption="" class="img-lg" >}}
-> {{% /details %}}
+{{% details "The 0 km location for the Phillipines can see this image by bullfrogggy" %}}
+{{<figure src="https://i.gyazo.com/e0106566daaf2df093b01c2be8c56138.png" caption="" class="img-lg" >}}
+{{% /details %}}
 
 ## South American stone
 
