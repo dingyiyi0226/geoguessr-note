@@ -7,6 +7,10 @@ bookCollapseSection: true
 
 ## Europe gen 4
 
+> [!WARNING]
+> **Warning**  
+> Only valid for copyright before 2024. The latest 2025/2026 meta is not included here
+
 [Full Doc]( https://docs.google.com/document/d/17X21eUdU_AhbiyDsEHLQCthJKjh9VuocNf7GhCvNATA/edit?usp=sharing) by Elori
 
 | Car  | Ant. | Year | Country                              | Rare             |
