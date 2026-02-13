@@ -6,15 +6,15 @@ weight: 30
 
 > [!NOTE]
 > **Dutch**  
-> Netherland, Belgium
+> Netherland, Belgium  
 > **French**  
-> France, Belgium, Switzerland
+> France, Belgium, Switzerland  
 > **German**  
-> Germany, Belgium, Luxembourg, Austria, Switzerland
+> Germany, Belgium, Luxembourg, Austria, Switzerland  
 > **Slavic**  
-> Poland, Czechia, Slovakia, Yugoslavia (Slovenia, Croatia, Bosnia, Montenegro, Serbia, North Macedonia)
+> Poland, Czechia, Slovakia, Yugoslavia (Slovenia, Croatia, Bosnia, Montenegro, Serbia, North Macedonia)  
 > **Cyrillic script**  
-> Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central Asia
+> Russia, Ukraine, Bulgaria, Bosnia, Montenegro, Serbia, North Macedonia, Central Asia  
 
 
 ## Word
