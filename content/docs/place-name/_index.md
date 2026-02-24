@@ -1,12 +1,30 @@
 ---
 weight: 100
+bookCollapseSection: true
 ---
 
 # Place name
 
+You can use the website [Map Region Explorer](https://dingyiyi0226.github.io/map-region/) to check the place names in different countries.
+
 ## Indonesia
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Indonesia%2C_administrative_divisions_-_en_-_monochrome.svg/3840px-Indonesia%2C_administrative_divisions_-_en_-_monochrome.svg.png" loading="lazy" />
+
+### Kalimantan
+
+{{% details "Expand" %}}
+![kalimantan](kalimantan.png)
+{{% /details %}}
+
+### Sulawesi
+
+{{% details "Expand" %}}
+![sulawesi](sula-1.png)
+![sulawesi](sula-2.png)
+![sulawesi](sula-3.png)
+
+{{% /details %}}
 
 ### Sumatra
 
