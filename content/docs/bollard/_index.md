@@ -11,19 +11,19 @@ bookCollapseSection: true
 
 #### France, Senegal
 
-{{<figure src="bollard-fr.png" caption="red or grey" class="img-sm" loading="lazy" >}}
+{{<figure src="bollard-fr.png" caption="red or grey" class="img-md" loading="lazy" >}}
 
 <--->
 
 #### Scotland (UK)
 
-{{<figure src="bollard-scotland.png" caption="rounded top" class="img-sm" loading="lazy" >}}
+{{<figure src="bollard-scotland.png" caption="rounded top" class="img-md" loading="lazy" >}}
 
 <--->
 
 #### France
 
-{{<figure src="bollard-flag-fr.png" caption="" class="img-sm" loading="lazy" >}}
+{{<figure src="bollard-flag-fr.png" caption="" class="img-md" loading="lazy" >}}
 
 <--->
 
@@ -46,21 +46,26 @@ bookCollapseSection: true
 {{% /columns %}}
 
 
-## Wedge, yellow and white
+## White wedge with reflector
 
 {{% columns %}}
 
 #### Belgium
 
-<img src="bollard-be.png" class="img-sm" loading="lazy" />
+{{<figure src="bollard-be.png" caption="yellow reflector" class="img-md" loading="lazy">}}
 
 <--->
 
 #### Denmark
 
-<img src="bollard-dk.png" class="img-sm" loading="lazy" />
+{{<figure src="bollard-dk.png" caption="yellow with stripe" class="img-md" loading="lazy">}}
 
 <--->
+
+#### Cyprus
+{{<figure src="bollard-cy.png" caption="red reflector" class="img-md" loading="lazy"
+    link="https://www.google.com/maps/@34.672649,32.634608,3a,22.4y,74.88h,82.87t/data=!3m5!1e1!3m3!1scjtWen7BuyFkPHg3vxDcnQ!2e0!6shttps%3A%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fw%3D900%26h%3D600%26panoid%3DcjtWen7BuyFkPHg3vxDcnQ%26cb_client%3Dmaps_sv.share%26yaw%3D74.88021360940833%26pitch%3D7.131429104159139%26thumbfov%3D22?coh=235716&entry=tts" target="_blank">}}
+
 <--->
 
 {{% /columns %}}
@@ -159,13 +164,13 @@ Switzerland, Liechtenstein
 
 #### Mongolia
 
-{{<figure src="bollard-mn.png" caption="bowling shape" class="img-sm" loading="lazy" >}}
+{{<figure src="bollard-mn.png" caption="bowling shape" class="img-md" loading="lazy" >}}
 
 <--->
 
 #### Iceland
 
-{{<figure src="bollard-is.png" caption="" class="img-sm" loading="lazy" >}}
+{{<figure src="bollard-is.png" caption="" class="img-md" loading="lazy" >}}
 
 <--->
 <--->

@@ -10,7 +10,7 @@ Wedge, front red and back white, strip on both side
 
 Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 
-**Shorter white top**: Croatia, Montenegro, North Macedonia
+**Shorter white top**: Croatia, Montenegro, North Macedonia, Bosnia and Herzegovina
 
 {{% columns %}}
 
@@ -67,7 +67,7 @@ Russia, Ukraine, Hungary, Bulgaria, Croatia, Montenegro, North Macedonia
 {{% /columns %}}
 
 
-## Black top: Italy, Albania
+## Black top: Italy, Albania, BiH
 
 <img src="bollard-it.png" class="img-sm" loading="lazy" />
 

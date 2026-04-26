@@ -8,7 +8,7 @@ Wedge, front red and back white, strip on both side, with black hat
 
 ## Standard
 
-Austria, Slovenia, Croatia, Montenegro
+Austria, Slovenia, Croatia, Montenegro, Bosnia and Herzegovina
 
 <img src="bollard-si.png" class="img-sm" loading="lazy" />
 
