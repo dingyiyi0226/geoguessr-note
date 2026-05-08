@@ -31,6 +31,22 @@
 
 {{% /columns %}}
 
+## Pitch pine - [Pinus rigida](https://en.wikipedia.org/wiki/Pinus_rigida)
+
+- Irregular, ragged, almost tortured silhouette
+- Sprouts tufts of needles directly from the trunk and major limbs
+
+{{% columns %}}
+
+- #### New Jersey, USA
+  {{<figure src="pitch-pine.png" caption="" class="img-lg" loading="lazy"
+    link="https://www.google.com/maps/@39.681891,-74.303298,3a,89.3y,127.23h,97.83t/data=!3m5!1e1!3m3!1s85plWitfVEJ-NDkTWVg6-w!2e0!6shttps%3A%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fw%3D900%26h%3D600%26panoid%3D85plWitfVEJ-NDkTWVg6-w%26cb_client%3Dmaps_sv.share%26yaw%3D127.23240064400157%26pitch%3D-7.827100152095568%26thumbfov%3D89?coh=235716&entry=tts" target="_blank">}}
+- #### Distribution: NE USA
+  {{<figure src="pitch-pine-dist.png" caption="" class="img-lg" loading="lazy"
+   link="https://www.inaturalist.org/observations?subview=map&taxon_id=53464" target="_blank">}}
+
+{{% /columns %}}
+
 ## Eastern white pine - [Pinus strobus](https://en.wikipedia.org/wiki/Pinus_strobus)
 
 - Soft, feathery, airy crown; branches in clear annual whorls with long horizontal layers.
