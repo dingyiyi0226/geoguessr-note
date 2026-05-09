@@ -1,3 +1,8 @@
+---
+weight: 11
+
+---
+
 # Mediterranean pine
 
 These Mediterranean pines belong to the [Pinus subsection Pinaster](https://en.wikipedia.org/wiki/List_of_Pinus_species#Subsection_Pinaster)
